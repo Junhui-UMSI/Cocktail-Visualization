@@ -21,7 +21,7 @@
 <body>
     <form method="get">
         <input type="text" id="search" class="tftextinput" name="q" size="21" maxlength="120">
-        <button id="searchbutton" onClick="onQuery()">Search</button>
+        <button id="searchbutton" onclick="onQuery(event)">Search</button>
     </form>
     <!-- <button type="button" id="refresh-btn">Refresh data</button> -->
     <div id="donut-charts"></div>
@@ -31,24 +31,7 @@
     <script>
     var dataset;
     dataset = [
-        {
-            "total": 100.5,
-            "data": [{
-                "color": "F48D02",
-                "val": 39.0,
-                "cat": "brandy"
-            }, {
-                "color": "F48D02",
-                "val": 22.5,
-                "cat": "cherry brandy"
-            }, {
-                "color": "D2B69D",
-                "val": 39.0,
-                "cat": "coffee"
-            }],
-            "unit": "ml",
-            "cocktail": "black jack"
-        }, {
+     {
             "total": 120.0,
             "data": [{
                 "color": "82C73D",
@@ -500,8 +483,7 @@
                 .append('svg:path')
                     .attr('d', arc)
                     .style('fill', function(d, i) {
-                        console.log(d['data']['color']);
-                        return color(i);
+                        return d['data']['color'];
                     })
                     .style('stroke', '#FFFFFF')
                     .on(eventObj)
@@ -520,7 +502,7 @@
             var donut = charts.selectAll('.donut')
                             .data(dataset)
                         .enter().append('svg:svg')
-                            .attr('width', '20%')
+                            .attr('width', '30%')
                             .attr('height', (chart_r + chart_m) * 2)
                             .style('overflow','inherit')
                             .style('margin-bottom','40px')
@@ -537,7 +519,6 @@
         }
 
         this.update = function(dataset) {
-            console.log("data!!!");
             var itemName = document.getElementById("search").value;
             // Assume no new categ of data enter
             var donut = charts.selectAll(".donut").data(dataset);
@@ -548,19 +529,24 @@
         }
     }
     function filterInput(){
-        d3.select("svg > *").remove();
+        // d3.select("svg > *").remove();
         var itemName = document.getElementById("search").value;
+
+        var result = [];
+
+
         for(var item in dataset){
             var index = dataset.indexOf(item);
             for(var ingredient in dataset[item]['data']){
                 // console.log(dataset[item]['data'][ingredient]);
                 var checkitem = dataset[item]['data'][ingredient];
                 if(checkitem['cat'] == itemName){
-                    dataset.splice(index,1);
+                    // dataset.splice(index,1);
+                    result.push(dataset[item]);
                 }
             }
         }
-        console.log(dataset);
+        return result;
     }
 
 
@@ -569,9 +555,8 @@
     donuts.create(donutData);
 
     var onQuery = function(event) {
-        // event.preventDefault();
-        console.log(dataset2);
-        donuts.update(dataset2);
+        event.preventDefault();
+        donuts.update(filterInput());
     }
     </script>
 </body>
