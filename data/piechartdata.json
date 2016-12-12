@@ -1,0 +1,6148 @@
+{
+    "black jack": {
+        "total": 100.5,
+        "data": [{
+            "color": "F48D02",
+            "val": 39.0,
+            "cat": "brandy"
+        }, {
+            "color": "F48D02",
+            "val": 22.5,
+            "cat": "cherry brandy"
+        }, {
+            "color": "D2B69D",
+            "val": 39.0,
+            "cat": "coffee"
+        }],
+        "unit": "ml",
+        "cocktail": "black jack"
+    },
+    "vodka gimlet": {
+        "total": 120.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 60.0,
+            "cat": "sweetened lime juice"
+        }, {
+            "color": "FFF576",
+            "val": 60.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "vodka gimlet"
+    },
+    "costa del sol": {
+        "total": 120.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 30.0,
+            "cat": "apricot brandy"
+        }, {
+            "color": "E8BD42",
+            "val": 60.0,
+            "cat": "gin"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "grand marnier"
+        }],
+        "unit": "ml",
+        "cocktail": "costa del sol"
+    },
+    "green fire": {
+        "total": 65.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "A01F02",
+            "val": 10.0,
+            "cat": "green creme de menthe"
+        }, {
+            "color": "A01F02",
+            "val": 10.0,
+            "cat": "kummel liqueur"
+        }],
+        "unit": "ml",
+        "cocktail": "green fire"
+    },
+    "narragansett": {
+        "total": 75.6,
+        "data": [{
+            "color": "A01F02",
+            "val": 0.6,
+            "cat": "anisette"
+        }, {
+            "color": "CD840B",
+            "val": 45.0,
+            "cat": "bourbon"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "narragansett"
+    },
+    "assissino": {
+        "total": 151.2,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 30.0,
+            "cat": "club soda"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "pineapple juice"
+        }, {
+            "color": "A01F02",
+            "val": 1.2,
+            "cat": "sambuca"
+        }, {
+            "color": "D25313",
+            "val": 60.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "assissino"
+    },
+    "apple eden": {
+        "total": 135.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 90.0,
+            "cat": "apple juice"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "apple eden"
+    },
+    "tipperary": {
+        "total": 75.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "green chartreuse"
+        }, {
+            "color": "D25313",
+            "val": 30.0,
+            "cat": "irish whiskey"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "tipperary"
+    },
+    "pink lemonade": {
+        "total": 255.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "cranberry juice"
+        }, {
+            "color": "82C73D",
+            "val": 120.0,
+            "cat": "lemonade"
+        }, {
+            "color": "4E922E",
+            "val": 60.0,
+            "cat": "sour mix"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "pink lemonade"
+    },
+    "flying scot": {
+        "total": 78.6,
+        "data": [{
+            "color": "A14D90",
+            "val": 1.8,
+            "cat": "angostura bitters"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "scotch whisky"
+        }, {
+            "color": "0063B2",
+            "val": 1.8,
+            "cat": "sugar syrup"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "flying scot"
+    },
+    "joe collins": {
+        "total": 165.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 30.0,
+            "cat": "club soda"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "scotch whisky"
+        }, {
+            "color": "4E922E",
+            "val": 90.0,
+            "cat": "sour mix"
+        }],
+        "unit": "ml",
+        "cocktail": "joe collins"
+    },
+    "philadelphia scotsman": {
+        "total": 98.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 30.0,
+            "cat": "apple brandy"
+        }, {
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "club soda"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "orange juice"
+        }, {
+            "color": "CF548C",
+            "val": 30.0,
+            "cat": "port wine"
+        }],
+        "unit": "ml",
+        "cocktail": "philadelphia scotsman"
+    },
+    "bacardi": {
+        "total": 61.8,
+        "data": [{
+            "color": "0063B2",
+            "val": 1.8,
+            "cat": "grenadine"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }],
+        "unit": "ml",
+        "cocktail": "bacardi"
+    },
+    "mojito": {
+        "total": 135.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "lime juice"
+        }, {
+            "color": "7CD1FF",
+            "val": 60.0,
+            "cat": "soda water"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "white rum"
+        }],
+        "unit": "ml",
+        "cocktail": "mojito"
+    },
+    "lallah rookh": {
+        "total": 83.6,
+        "data": [{
+            "color": "F48D02",
+            "val": 25.0,
+            "cat": "cognac"
+        }, {
+            "color": "EEF8FF",
+            "val": 8.0,
+            "cat": "cream"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "light rum"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }, {
+            "color": "CFE5A6",
+            "val": 0.6,
+            "cat": "vanilla extract"
+        }],
+        "unit": "ml",
+        "cocktail": "lallah rookh"
+    },
+    "london": {
+        "total": 52.400000000000006,
+        "data": [{
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "A14D90",
+            "val": 1.2,
+            "cat": "orange bitters"
+        }, {
+            "color": "A01F02",
+            "val": 1.2,
+            "cat": "pernod"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "london"
+    },
+    "chinese cocktail": {
+        "total": 90.6,
+        "data": [{
+            "color": "A14D90",
+            "val": 0.6,
+            "cat": "angostura bitters"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "dark rum"
+        }, {
+            "color": "0063B2",
+            "val": 15.0,
+            "cat": "grenadine"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "maraschino liqueur"
+        }, {
+            "color": "FFE6A1",
+            "val": 15.0,
+            "cat": "triple sec"
+        }],
+        "unit": "ml",
+        "cocktail": "chinese cocktail"
+    },
+    "the bottom line": {
+        "total": 180.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "7CD1FF",
+            "val": 120.0,
+            "cat": "tonic water"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "the bottom line"
+    },
+    "golf": {
+        "total": 91.2,
+        "data": [{
+            "color": "A14D90",
+            "val": 1.2,
+            "cat": "angostura bitters"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 60.0,
+            "cat": "gin"
+        }],
+        "unit": "ml",
+        "cocktail": "golf"
+    },
+    "fiji fizz": {
+        "total": 185.6,
+        "data": [{
+            "color": "CD840B",
+            "val": 15.0,
+            "cat": "bourbon"
+        }, {
+            "color": "F48D02",
+            "val": 5.0,
+            "cat": "cherry brandy"
+        }, {
+            "color": "7CD1FF",
+            "val": 120.0,
+            "cat": "cola"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "dark rum"
+        }, {
+            "color": "A14D90",
+            "val": 0.6,
+            "cat": "orange bitters"
+        }],
+        "unit": "ml",
+        "cocktail": "fiji fizz"
+    },
+    "mint cooler": {
+        "total": 181.8,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 120.0,
+            "cat": "club soda"
+        }, {
+            "color": "D25313",
+            "val": 60.0,
+            "cat": "scotch whisky"
+        }, {
+            "color": "A01F02",
+            "val": 1.8,
+            "cat": "white creme de menthe"
+        }],
+        "unit": "ml",
+        "cocktail": "mint cooler"
+    },
+    "lord rodney": {
+        "total": 75.6,
+        "data": [{
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "coconut syrup"
+        }, {
+            "color": "FF474C",
+            "val": 25.0,
+            "cat": "dark rum"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "whiskey"
+        }, {
+            "color": "A01F02",
+            "val": 0.6,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "lord rodney"
+    },
+    "orange bloom": {
+        "total": 60.0,
+        "data": [{
+            "color": "FFE6A1",
+            "val": 15.0,
+            "cat": "cointreau"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "orange bloom"
+    },
+    "xyz cocktail": {
+        "total": 120.0,
+        "data": [{
+            "color": "FFE6A1",
+            "val": 30.0,
+            "cat": "cointreau"
+        }, {
+            "color": "FF474C",
+            "val": 60.0,
+            "cat": "dark rum"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "lemon juice"
+        }],
+        "unit": "ml",
+        "cocktail": "xyz cocktail"
+    },
+    "lime rickey": {
+        "total": 68.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "club soda"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }],
+        "unit": "ml",
+        "cocktail": "lime rickey"
+    },
+    "around the world": {
+        "total": 135.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "A01F02",
+            "val": 45.0,
+            "cat": "green creme de menthe"
+        }, {
+            "color": "82C73D",
+            "val": 45.0,
+            "cat": "pineapple juice"
+        }],
+        "unit": "ml",
+        "cocktail": "around the world"
+    },
+    "black magic": {
+        "total": 71.2,
+        "data": [{
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "kahlua"
+        }, {
+            "color": "82C73D",
+            "val": 1.2,
+            "cat": "lemon juice"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "black magic"
+    },
+    "java cooler": {
+        "total": 54.8,
+        "data": [{
+            "color": "A14D90",
+            "val": 1.8,
+            "cat": "angostura bitters"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "tonic water"
+        }],
+        "unit": "ml",
+        "cocktail": "java cooler"
+    },
+    "apple pie": {
+        "total": 91.2,
+        "data": [{
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "apple brandy"
+        }, {
+            "color": "F48D02",
+            "val": 0.6,
+            "cat": "apricot brandy"
+        }, {
+            "color": "0063B2",
+            "val": 0.6,
+            "cat": "grenadine"
+        }, {
+            "color": "82C73D",
+            "val": 5.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "light rum"
+        }, {
+            "color": "FFDE5B",
+            "val": 25.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "apple pie"
+    },
+    "black lady": {
+        "total": 90.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "brandy"
+        }, {
+            "color": "A01F02",
+            "val": 60.0,
+            "cat": "grand marnier"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "kahlua"
+        }],
+        "unit": "ml",
+        "cocktail": "black lady"
+    },
+    "bourbon old-fashioned": {
+        "total": 101.2,
+        "data": [{
+            "color": "A14D90",
+            "val": 1.2,
+            "cat": "angostura bitters"
+        }, {
+            "color": "CD840B",
+            "val": 90.0,
+            "cat": "bourbon"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }, {
+            "color": "D4E7FD",
+            "val": 5.0,
+            "cat": "water"
+        }],
+        "unit": "ml",
+        "cocktail": "bourbon old-fashioned"
+    },
+    "vodka collins": {
+        "total": 210.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 120.0,
+            "cat": "club soda"
+        }, {
+            "color": "4E922E",
+            "val": 60.0,
+            "cat": "sour mix"
+        }, {
+            "color": "FFF576",
+            "val": 30.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "vodka collins"
+    },
+    "ruptured duck": {
+        "total": 90.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 30.0,
+            "cat": "cream"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "creme de banane"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "creme de noyaux"
+        }],
+        "unit": "ml",
+        "cocktail": "ruptured duck"
+    },
+    "cape codder": {
+        "total": 75.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 60.0,
+            "cat": "cranberry juice"
+        }, {
+            "color": "FFF576",
+            "val": 15.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "cape codder"
+    },
+    "jolly roger": {
+        "total": 84.2,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "club soda"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "drambuie"
+        }, {
+            "color": "FF474C",
+            "val": 30.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "D25313",
+            "val": 1.2,
+            "cat": "scotch whisky"
+        }],
+        "unit": "ml",
+        "cocktail": "jolly roger"
+    },
+    "bourbon sour": {
+        "total": 70.0,
+        "data": [{
+            "color": "CD840B",
+            "val": 25.0,
+            "cat": "bourbon"
+        }, {
+            "color": "4E922E",
+            "val": 45.0,
+            "cat": "sour mix"
+        }],
+        "unit": "ml",
+        "cocktail": "bourbon sour"
+    },
+    "appletini": {
+        "total": 99.0,
+        "data": [{
+            "color": "DFD7AF",
+            "val": 39.0,
+            "cat": "apple schnapps"
+        }, {
+            "color": "FFF576",
+            "val": 60.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "appletini"
+    },
+    "tuxedo": {
+        "total": 90.6,
+        "data": [{
+            "color": "CF548C",
+            "val": 30.0,
+            "cat": "dry sherry"
+        }, {
+            "color": "E8BD42",
+            "val": 60.0,
+            "cat": "gin"
+        }, {
+            "color": "A14D90",
+            "val": 0.6,
+            "cat": "orange bitters"
+        }],
+        "unit": "ml",
+        "cocktail": "tuxedo"
+    },
+    "king's peg": {
+        "total": 83.0,
+        "data": [{
+            "color": "CF548C",
+            "val": 8.0,
+            "cat": "champagne"
+        }, {
+            "color": "F48D02",
+            "val": 75.0,
+            "cat": "cognac"
+        }],
+        "unit": "ml",
+        "cocktail": "king's peg"
+    },
+    "alexander": {
+        "total": 90.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "EEF8FF",
+            "val": 30.0,
+            "cat": "heavy cream"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "alexander"
+    },
+    "the international": {
+        "total": 70.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 10.0,
+            "cat": "anisette"
+        }, {
+            "color": "F48D02",
+            "val": 45.0,
+            "cat": "cognac"
+        }, {
+            "color": "FFE6A1",
+            "val": 10.0,
+            "cat": "cointreau"
+        }, {
+            "color": "FFF576",
+            "val": 5.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "the international"
+    },
+    "angel's kiss": {
+        "total": 60.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 30.0,
+            "cat": "cream"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "dark creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "angel's kiss"
+    },
+    "tequila sunrise": {
+        "total": 195.0,
+        "data": [{
+            "color": "0063B2",
+            "val": 15.0,
+            "cat": "grenadine"
+        }, {
+            "color": "82C73D",
+            "val": 120.0,
+            "cat": "orange juice"
+        }, {
+            "color": "9F7ABB",
+            "val": 60.0,
+            "cat": "tequila"
+        }],
+        "unit": "ml",
+        "cocktail": "tequila sunrise"
+    },
+    "dandy": {
+        "total": 92.4,
+        "data": [{
+            "color": "A14D90",
+            "val": 0.6,
+            "cat": "angostura bitters"
+        }, {
+            "color": "FFE6A1",
+            "val": 1.8,
+            "cat": "cointreau"
+        }, {
+            "color": "CF548C",
+            "val": 45.0,
+            "cat": "dubonnet"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "rye whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "dandy"
+    },
+    "presbyterian": {
+        "total": 122.0,
+        "data": [{
+            "color": "CD840B",
+            "val": 90.0,
+            "cat": "bourbon"
+        }, {
+            "color": "7CD1FF",
+            "val": 16.0,
+            "cat": "club soda"
+        }, {
+            "color": "7CD1FF",
+            "val": 16.0,
+            "cat": "ginger ale"
+        }],
+        "unit": "ml",
+        "cocktail": "presbyterian"
+    },
+    "honeymoon": {
+        "total": 106.8,
+        "data": [{
+            "color": "F48D02",
+            "val": 45.0,
+            "cat": "apple brandy"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "benedictine"
+        }, {
+            "color": "A01F02",
+            "val": 1.8,
+            "cat": "curacao"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "lemon juice"
+        }],
+        "unit": "ml",
+        "cocktail": "honeymoon"
+    },
+    "stone sour": {
+        "total": 73.6,
+        "data": [{
+            "color": "CD840B",
+            "val": 45.0,
+            "cat": "bourbon"
+        }, {
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "club soda"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "0063B2",
+            "val": 0.6,
+            "cat": "sugar syrup"
+        }, {
+            "color": "A01F02",
+            "val": 5.0,
+            "cat": "white creme de menthe"
+        }],
+        "unit": "ml",
+        "cocktail": "stone sour"
+    },
+    "john collins": {
+        "total": 180.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 30.0,
+            "cat": "club soda"
+        }, {
+            "color": "4E922E",
+            "val": 90.0,
+            "cat": "sour mix"
+        }, {
+            "color": "D25313",
+            "val": 60.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "john collins"
+    },
+    "kcb": {
+        "total": 63.599999999999994,
+        "data": [{
+            "color": "F48D02",
+            "val": 1.8,
+            "cat": "apricot brandy"
+        }, {
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "cherry brandy"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 1.8,
+            "cat": "lemon juice"
+        }],
+        "unit": "ml",
+        "cocktail": "kcb"
+    },
+    "indian summer": {
+        "total": 120.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "kahlua"
+        }, {
+            "color": "82C73D",
+            "val": 60.0,
+            "cat": "pineapple juice"
+        }, {
+            "color": "FFF576",
+            "val": 30.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "indian summer"
+    },
+    "rusty nail": {
+        "total": 75.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "drambuie"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "scotch whisky"
+        }],
+        "unit": "ml",
+        "cocktail": "rusty nail"
+    },
+    "screwdriver": {
+        "total": 165.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 120.0,
+            "cat": "orange juice"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "screwdriver"
+    },
+    "ninja turtle": {
+        "total": 68.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "curacao"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 8.0,
+            "cat": "orange juice"
+        }],
+        "unit": "ml",
+        "cocktail": "ninja turtle"
+    },
+    "blue lagoon": {
+        "total": 210.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "blue curacao"
+        }, {
+            "color": "82C73D",
+            "val": 150.0,
+            "cat": "lemonade"
+        }, {
+            "color": "FFF576",
+            "val": 30.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "blue lagoon"
+    },
+    "white lion": {
+        "total": 66.8,
+        "data": [{
+            "color": "A14D90",
+            "val": 1.2,
+            "cat": "angostura bitters"
+        }, {
+            "color": "0063B2",
+            "val": 0.6,
+            "cat": "grenadine"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "light rum"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "white lion"
+    },
+    "shark's tooth": {
+        "total": 98.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "club soda"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "dark rum"
+        }, {
+            "color": "0063B2",
+            "val": 15.0,
+            "cat": "grenadine"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }],
+        "unit": "ml",
+        "cocktail": "shark's tooth"
+    },
+    "pall mall": {
+        "total": 96.8,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "A14D90",
+            "val": 1.8,
+            "cat": "orange bitters"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }, {
+            "color": "A01F02",
+            "val": 5.0,
+            "cat": "white creme de menthe"
+        }],
+        "unit": "ml",
+        "cocktail": "pall mall"
+    },
+    "blood and sand": {
+        "total": 105.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 25.0,
+            "cat": "cherry brandy"
+        }, {
+            "color": "82C73D",
+            "val": 25.0,
+            "cat": "orange juice"
+        }, {
+            "color": "D25313",
+            "val": 30.0,
+            "cat": "scotch whisky"
+        }, {
+            "color": "FFDE5B",
+            "val": 25.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "blood and sand"
+    },
+    "vodka martini": {
+        "total": 45.6,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 0.6,
+            "cat": "dry vermouth"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "vodka martini"
+    },
+    "harvey wallbanger": {
+        "total": 180.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "galliano"
+        }, {
+            "color": "82C73D",
+            "val": 120.0,
+            "cat": "orange juice"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "harvey wallbanger"
+    },
+    "turkey shooter": {
+        "total": 35.0,
+        "data": [{
+            "color": "CD840B",
+            "val": 25.0,
+            "cat": "bourbon"
+        }, {
+            "color": "A01F02",
+            "val": 10.0,
+            "cat": "white creme de menthe"
+        }],
+        "unit": "ml",
+        "cocktail": "turkey shooter"
+    },
+    "wembley": {
+        "total": 71.8,
+        "data": [{
+            "color": "F48D02",
+            "val": 1.8,
+            "cat": "apple brandy"
+        }, {
+            "color": "FFDE5B",
+            "val": 25.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }],
+        "unit": "ml",
+        "cocktail": "wembley"
+    },
+    "mamie taylor": {
+        "total": 225.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 120.0,
+            "cat": "ginger ale"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "D25313",
+            "val": 90.0,
+            "cat": "scotch whisky"
+        }],
+        "unit": "ml",
+        "cocktail": "mamie taylor"
+    },
+    "california ice tea": {
+        "total": 150.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 15.0,
+            "cat": "gin"
+        }, {
+            "color": "FF474C",
+            "val": 15.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "orange juice"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "pineapple juice"
+        }, {
+            "color": "4E922E",
+            "val": 15.0,
+            "cat": "sour mix"
+        }, {
+            "color": "9F7ABB",
+            "val": 15.0,
+            "cat": "tequila"
+        }, {
+            "color": "FFE6A1",
+            "val": 15.0,
+            "cat": "triple sec"
+        }, {
+            "color": "FFF576",
+            "val": 15.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "california ice tea"
+    },
+    "brandy manhattan": {
+        "total": 75.6,
+        "data": [{
+            "color": "A14D90",
+            "val": 0.6,
+            "cat": "angostura bitters"
+        }, {
+            "color": "F48D02",
+            "val": 60.0,
+            "cat": "brandy"
+        }, {
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "brandy manhattan"
+    },
+    "mudslide": {
+        "total": 90.0,
+        "data": [{
+            "color": "FDD8C7",
+            "val": 30.0,
+            "cat": "irish cream"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "kahlua"
+        }, {
+            "color": "FFF576",
+            "val": 30.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "mudslide"
+    },
+    "calypso": {
+        "total": 58.0,
+        "data": [{
+            "color": "D2B69D",
+            "val": 8.0,
+            "cat": "coffee"
+        }, {
+            "color": "FF474C",
+            "val": 25.0,
+            "cat": "dark rum"
+        }, {
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "kahlua"
+        }],
+        "unit": "ml",
+        "cocktail": "calypso"
+    },
+    "russian bear": {
+        "total": 90.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "dark creme de cacao"
+        }, {
+            "color": "EEF8FF",
+            "val": 30.0,
+            "cat": "heavy cream"
+        }, {
+            "color": "FFF576",
+            "val": 30.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "russian bear"
+    },
+    "union jack": {
+        "total": 55.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 10.0,
+            "cat": "creme de violette"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }],
+        "unit": "ml",
+        "cocktail": "union jack"
+    },
+    "tovarich": {
+        "total": 83.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "campari"
+        }, {
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "club soda"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }, {
+            "color": "FFF576",
+            "val": 15.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "tovarich"
+    },
+    "brain": {
+        "total": 90.0,
+        "data": [{
+            "color": "FDD8C7",
+            "val": 30.0,
+            "cat": "irish cream"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "kahlua"
+        }, {
+            "color": "F48D02",
+            "val": 30.0,
+            "cat": "peach brandy"
+        }],
+        "unit": "ml",
+        "cocktail": "brain"
+    },
+    "park avenue": {
+        "total": 105.6,
+        "data": [{
+            "color": "A01F02",
+            "val": 0.6,
+            "cat": "curacao"
+        }, {
+            "color": "E8BD42",
+            "val": 60.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "pineapple juice"
+        }, {
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "park avenue"
+    },
+    "margarita": {
+        "total": 89.6,
+        "data": [{
+            "color": "82C73D",
+            "val": 22.0,
+            "cat": "lime juice"
+        }, {
+            "color": "C1DAD4",
+            "val": 0.6,
+            "cat": "salt"
+        }, {
+            "color": "9F7ABB",
+            "val": 45.0,
+            "cat": "tequila"
+        }, {
+            "color": "FFE6A1",
+            "val": 22.0,
+            "cat": "triple sec"
+        }],
+        "unit": "ml",
+        "cocktail": "margarita"
+    },
+    "cappuccino mocha": {
+        "total": 83.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "creme de cacao"
+        }, {
+            "color": "D2B69D",
+            "val": 25.0,
+            "cat": "hot espresso"
+        }, {
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "kahlua"
+        }, {
+            "color": "EEF8FF",
+            "val": 8.0,
+            "cat": "milk"
+        }],
+        "unit": "ml",
+        "cocktail": "cappuccino mocha"
+    },
+    "eve": {
+        "total": 43.6,
+        "data": [{
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "cognac"
+        }, {
+            "color": "A01F02",
+            "val": 10.0,
+            "cat": "curacao"
+        }, {
+            "color": "A01F02",
+            "val": 0.6,
+            "cat": "pernod"
+        }, {
+            "color": "CF548C",
+            "val": 8.0,
+            "cat": "sparkling wine"
+        }, {
+            "color": "0063B2",
+            "val": 10.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "eve"
+    },
+    "cherry bomb": {
+        "total": 175.6,
+        "data": [{
+            "color": "E1EDD8",
+            "val": 30.0,
+            "cat": "cream of coconut"
+        }, {
+            "color": "0063B2",
+            "val": 0.6,
+            "cat": "grenadine"
+        }, {
+            "color": "FF474C",
+            "val": 15.0,
+            "cat": "light rum"
+        }, {
+            "color": "EEF8FF",
+            "val": 10.0,
+            "cat": "milk"
+        }, {
+            "color": "82C73D",
+            "val": 90.0,
+            "cat": "pineapple juice"
+        }, {
+            "color": "9F7ABB",
+            "val": 15.0,
+            "cat": "tequila"
+        }, {
+            "color": "FFF576",
+            "val": 15.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "cherry bomb"
+    },
+    "blue carnation": {
+        "total": 120.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 60.0,
+            "cat": "cream"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "curacao"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "blue carnation"
+    },
+    "savoy aviation": {
+        "total": 108.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 70.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 23.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "maraschino liqueur"
+        }],
+        "unit": "ml",
+        "cocktail": "savoy aviation"
+    },
+    "brass monkey": {
+        "total": 38.0,
+        "data": [{
+            "color": "FF474C",
+            "val": 15.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 8.0,
+            "cat": "orange juice"
+        }, {
+            "color": "FFF576",
+            "val": 15.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "brass monkey"
+    },
+    "kialoa": {
+        "total": 75.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 30.0,
+            "cat": "cream"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "kahlua"
+        }, {
+            "color": "FF474C",
+            "val": 15.0,
+            "cat": "light rum"
+        }],
+        "unit": "ml",
+        "cocktail": "kialoa"
+    },
+    "new yorker": {
+        "total": 110.0,
+        "data": [{
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "grenadine"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "lime juice"
+        }, {
+            "color": "0063B2",
+            "val": 15.0,
+            "cat": "simple syrup"
+        }, {
+            "color": "D25313",
+            "val": 60.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "new yorker"
+    },
+    "stinger": {
+        "total": 90.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 45.0,
+            "cat": "brandy"
+        }, {
+            "color": "A01F02",
+            "val": 45.0,
+            "cat": "white creme de menthe"
+        }],
+        "unit": "ml",
+        "cocktail": "stinger"
+    },
+    "whist": {
+        "total": 60.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 30.0,
+            "cat": "apple brandy"
+        }, {
+            "color": "FF474C",
+            "val": 15.0,
+            "cat": "dark rum"
+        }, {
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "whist"
+    },
+    "gibson": {
+        "total": 77.4,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 2.4,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 75.0,
+            "cat": "gin"
+        }],
+        "unit": "ml",
+        "cocktail": "gibson"
+    },
+    "summer share": {
+        "total": 255.6,
+        "data": [{
+            "color": "F48D02",
+            "val": 0.6,
+            "cat": "apricot brandy"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "cranberry juice"
+        }, {
+            "color": "82C73D",
+            "val": 120.0,
+            "cat": "lemonade"
+        }, {
+            "color": "FF474C",
+            "val": 30.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "orange juice"
+        }, {
+            "color": "9F7ABB",
+            "val": 15.0,
+            "cat": "tequila"
+        }, {
+            "color": "FFF576",
+            "val": 30.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "summer share"
+    },
+    "moulin rouge": {
+        "total": 61.8,
+        "data": [{
+            "color": "A14D90",
+            "val": 1.8,
+            "cat": "angostura bitters"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "sloe gin"
+        }, {
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "moulin rouge"
+    },
+    "coffee alexander": {
+        "total": 90.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 30.0,
+            "cat": "cream"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "dark creme de cacao"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "kahlua"
+        }],
+        "unit": "ml",
+        "cocktail": "coffee alexander"
+    },
+    "pina colada": {
+        "total": 240.0,
+        "data": [{
+            "color": "E1EDD8",
+            "val": 60.0,
+            "cat": "cream of coconut"
+        }, {
+            "color": "FF474C",
+            "val": 60.0,
+            "cat": "gold rum"
+        }, {
+            "color": "82C73D",
+            "val": 120.0,
+            "cat": "pineapple juice"
+        }],
+        "unit": "ml",
+        "cocktail": "pina colada"
+    },
+    "california root beer": {
+        "total": 150.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 60.0,
+            "cat": "club soda"
+        }, {
+            "color": "7CD1FF",
+            "val": 30.0,
+            "cat": "cola"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "galliano"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "kahlua"
+        }],
+        "unit": "ml",
+        "cocktail": "california root beer"
+    },
+    "bentley": {
+        "total": 90.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 45.0,
+            "cat": "apple brandy"
+        }, {
+            "color": "CF548C",
+            "val": 45.0,
+            "cat": "dubonnet"
+        }],
+        "unit": "ml",
+        "cocktail": "bentley"
+    },
+    "knockout": {
+        "total": 100.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 25.0,
+            "cat": "apricot brandy"
+        }, {
+            "color": "82C73D",
+            "val": 25.0,
+            "cat": "orange juice"
+        }, {
+            "color": "E8BD42",
+            "val": 25.0,
+            "cat": "sloe gin"
+        }, {
+            "color": "D25313",
+            "val": 25.0,
+            "cat": "southern comfort"
+        }],
+        "unit": "ml",
+        "cocktail": "knockout"
+    },
+    "golden gate": {
+        "total": 100.0,
+        "data": [{
+            "color": "FF474C",
+            "val": 5.0,
+            "cat": "dark rum"
+        }, {
+            "color": "E8BD42",
+            "val": 15.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "FF474C",
+            "val": 30.0,
+            "cat": "light rum"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "orgeat syrup"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "golden gate"
+    },
+    "jade": {
+        "total": 66.2,
+        "data": [{
+            "color": "A01F02",
+            "val": 0.6,
+            "cat": "curacao"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "gold rum"
+        }, {
+            "color": "A01F02",
+            "val": 0.6,
+            "cat": "green creme de menthe"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "jade"
+    },
+    "grasshopper": {
+        "total": 90.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "green creme de menthe"
+        }, {
+            "color": "EEF8FF",
+            "val": 30.0,
+            "cat": "light cream"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "grasshopper"
+    },
+    "poker": {
+        "total": 90.0,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 45.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "gold rum"
+        }],
+        "unit": "ml",
+        "cocktail": "poker"
+    },
+    "kamikaze": {
+        "total": 91.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 23.0,
+            "cat": "lime juice"
+        }, {
+            "color": "FFE6A1",
+            "val": 23.0,
+            "cat": "triple sec"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "kamikaze"
+    },
+    "duchess": {
+        "total": 90.0,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "pernod"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "duchess"
+    },
+    "wagon wheel": {
+        "total": 165.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 45.0,
+            "cat": "cognac"
+        }, {
+            "color": "0063B2",
+            "val": 15.0,
+            "cat": "grenadine"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "D25313",
+            "val": 75.0,
+            "cat": "southern comfort"
+        }],
+        "unit": "ml",
+        "cocktail": "wagon wheel"
+    },
+    "kentucky colonel": {
+        "total": 60.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "benedictine"
+        }, {
+            "color": "CD840B",
+            "val": 45.0,
+            "cat": "bourbon"
+        }],
+        "unit": "ml",
+        "cocktail": "kentucky colonel"
+    },
+    "frisco sour": {
+        "total": 80.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "benedictine"
+        }, {
+            "color": "82C73D",
+            "val": 5.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "82C73D",
+            "val": 5.0,
+            "cat": "lime juice"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "frisco sour"
+    },
+    "thistle": {
+        "total": 91.8,
+        "data": [{
+            "color": "A14D90",
+            "val": 1.8,
+            "cat": "angostura bitters"
+        }, {
+            "color": "D25313",
+            "val": 60.0,
+            "cat": "scotch whisky"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "thistle"
+    },
+    "velvet hammer": {
+        "total": 90.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 60.0,
+            "cat": "cream"
+        }, {
+            "color": "FFE6A1",
+            "val": 15.0,
+            "cat": "triple sec"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "velvet hammer"
+    },
+    "grand apple": {
+        "total": 60.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 30.0,
+            "cat": "calvados"
+        }, {
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "cognac"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "grand marnier"
+        }],
+        "unit": "ml",
+        "cocktail": "grand apple"
+    },
+    "empire": {
+        "total": 85.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "apple brandy"
+        }, {
+            "color": "F48D02",
+            "val": 25.0,
+            "cat": "apricot brandy"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }],
+        "unit": "ml",
+        "cocktail": "empire"
+    },
+    "golden cadillac": {
+        "total": 120.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 30.0,
+            "cat": "cream"
+        }, {
+            "color": "A01F02",
+            "val": 60.0,
+            "cat": "galliano"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "golden cadillac"
+    },
+    "navy grog": {
+        "total": 135.0,
+        "data": [{
+            "color": "FF474C",
+            "val": 30.0,
+            "cat": "dark rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "guava juice"
+        }, {
+            "color": "FF474C",
+            "val": 30.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "orange juice"
+        }, {
+            "color": "0063B2",
+            "val": 15.0,
+            "cat": "orgeat syrup"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "pineapple juice"
+        }],
+        "unit": "ml",
+        "cocktail": "navy grog"
+    },
+    "dubonnet cocktail": {
+        "total": 90.0,
+        "data": [{
+            "color": "CF548C",
+            "val": 45.0,
+            "cat": "dubonnet"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }],
+        "unit": "ml",
+        "cocktail": "dubonnet cocktail"
+    },
+    "creamy mimi": {
+        "total": 80.0,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }, {
+            "color": "FFE6A1",
+            "val": 10.0,
+            "cat": "triple sec"
+        }, {
+            "color": "FFF576",
+            "val": 30.0,
+            "cat": "vodka"
+        }, {
+            "color": "A01F02",
+            "val": 10.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "creamy mimi"
+    },
+    "white lady": {
+        "total": 95.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 25.0,
+            "cat": "cream"
+        }, {
+            "color": "E8BD42",
+            "val": 25.0,
+            "cat": "gin"
+        }, {
+            "color": "4E922E",
+            "val": 45.0,
+            "cat": "sour mix"
+        }],
+        "unit": "ml",
+        "cocktail": "white lady"
+    },
+    "between the sheets": {
+        "total": 100.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 25.0,
+            "cat": "brandy"
+        }, {
+            "color": "FF474C",
+            "val": 25.0,
+            "cat": "light rum"
+        }, {
+            "color": "4E922E",
+            "val": 25.0,
+            "cat": "sour mix"
+        }, {
+            "color": "FFE6A1",
+            "val": 25.0,
+            "cat": "triple sec"
+        }],
+        "unit": "ml",
+        "cocktail": "between the sheets"
+    },
+    "whisky fix": {
+        "total": 95.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "D25313",
+            "val": 60.0,
+            "cat": "scotch whisky"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "whisky fix"
+    },
+    "jack rose": {
+        "total": 80.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 60.0,
+            "cat": "apple brandy"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "grenadine"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }],
+        "unit": "ml",
+        "cocktail": "jack rose"
+    },
+    "vodka stinger": {
+        "total": 60.0,
+        "data": [{
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "white creme de menthe"
+        }],
+        "unit": "ml",
+        "cocktail": "vodka stinger"
+    },
+    "gentle bull": {
+        "total": 95.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "coffee liqueur"
+        }, {
+            "color": "EEF8FF",
+            "val": 25.0,
+            "cat": "cream"
+        }, {
+            "color": "9F7ABB",
+            "val": 45.0,
+            "cat": "tequila"
+        }],
+        "unit": "ml",
+        "cocktail": "gentle bull"
+    },
+    "panama": {
+        "total": 60.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 15.0,
+            "cat": "cream"
+        }, {
+            "color": "FF474C",
+            "val": 30.0,
+            "cat": "dark rum"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "panama"
+    },
+    "singapore": {
+        "total": 225.6,
+        "data": [{
+            "color": "F48D02",
+            "val": 0.6,
+            "cat": "cherry brandy"
+        }, {
+            "color": "7CD1FF",
+            "val": 120.0,
+            "cat": "club soda"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "0063B2",
+            "val": 15.0,
+            "cat": "grenadine"
+        }, {
+            "color": "4E922E",
+            "val": 60.0,
+            "cat": "sour mix"
+        }],
+        "unit": "ml",
+        "cocktail": "singapore"
+    },
+    "dundee": {
+        "total": 85.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "drambuie"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "D25313",
+            "val": 25.0,
+            "cat": "scotch whisky"
+        }],
+        "unit": "ml",
+        "cocktail": "dundee"
+    },
+    "orange buck": {
+        "total": 98.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "ginger ale"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "orange juice"
+        }],
+        "unit": "ml",
+        "cocktail": "orange buck"
+    },
+    "brandy cobbler": {
+        "total": 95.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 75.0,
+            "cat": "brandy"
+        }, {
+            "color": "82C73D",
+            "val": 10.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "F48D02",
+            "val": 5.0,
+            "cat": "peach brandy"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "brandy cobbler"
+    },
+    "white wing": {
+        "total": 90.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 60.0,
+            "cat": "gin"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "white creme de menthe"
+        }],
+        "unit": "ml",
+        "cocktail": "white wing"
+    },
+    "paradise": {
+        "total": 90.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 30.0,
+            "cat": "apricot brandy"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "orange juice"
+        }],
+        "unit": "ml",
+        "cocktail": "paradise"
+    },
+    "racquet club": {
+        "total": 60.6,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "A14D90",
+            "val": 0.6,
+            "cat": "orange bitters"
+        }],
+        "unit": "ml",
+        "cocktail": "racquet club"
+    },
+    "preakness": {
+        "total": 80.6,
+        "data": [{
+            "color": "A14D90",
+            "val": 0.6,
+            "cat": "angostura bitters"
+        }, {
+            "color": "A01F02",
+            "val": 10.0,
+            "cat": "benedictine"
+        }, {
+            "color": "FFDE5B",
+            "val": 10.0,
+            "cat": "sweet vermouth"
+        }, {
+            "color": "D25313",
+            "val": 60.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "preakness"
+    },
+    "manhattan (perfect)": {
+        "total": 65.0,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 10.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "FFDE5B",
+            "val": 10.0,
+            "cat": "sweet vermouth"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "manhattan (perfect)"
+    },
+    "glasgow": {
+        "total": 85.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "creme de noyaux"
+        }, {
+            "color": "FFDE5B",
+            "val": 10.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "scotch whisky"
+        }],
+        "unit": "ml",
+        "cocktail": "glasgow"
+    },
+    "club med": {
+        "total": 175.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "82C73D",
+            "val": 90.0,
+            "cat": "pineapple juice"
+        }, {
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "raspberry liqueur"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "club med"
+    },
+    "vodka cooler": {
+        "total": 210.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 120.0,
+            "cat": "club soda"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "0063B2",
+            "val": 15.0,
+            "cat": "sugar syrup"
+        }, {
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "sweet vermouth"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "vodka cooler"
+    },
+    "independenve day mojito": {
+        "total": 120.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "0063B2",
+            "val": 15.0,
+            "cat": "simple syrup"
+        }, {
+            "color": "7CD1FF",
+            "val": 45.0,
+            "cat": "soda water"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "white rum"
+        }],
+        "unit": "ml",
+        "cocktail": "independenve day mojito"
+    },
+    "pearl harbor": {
+        "total": 53.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "melon liqueur"
+        }, {
+            "color": "82C73D",
+            "val": 8.0,
+            "cat": "pineapple juice"
+        }, {
+            "color": "FFF576",
+            "val": 30.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "pearl harbor"
+    },
+    "french green dragon": {
+        "total": 90.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 45.0,
+            "cat": "cognac"
+        }, {
+            "color": "A01F02",
+            "val": 45.0,
+            "cat": "green chartreuse"
+        }],
+        "unit": "ml",
+        "cocktail": "french green dragon"
+    },
+    "peach velvet": {
+        "total": 75.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 15.0,
+            "cat": "heavy cream"
+        }, {
+            "color": "F48D02",
+            "val": 45.0,
+            "cat": "peach brandy"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "peach velvet"
+    },
+    "vodka gibson": {
+        "total": 75.0,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "FFF576",
+            "val": 60.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "vodka gibson"
+    },
+    "zombie": {
+        "total": 165.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "creme de noyaux"
+        }, {
+            "color": "FF474C",
+            "val": 30.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 45.0,
+            "cat": "orange juice"
+        }, {
+            "color": "FF474C",
+            "val": 15.0,
+            "cat": "rum"
+        }, {
+            "color": "4E922E",
+            "val": 45.0,
+            "cat": "sour mix"
+        }, {
+            "color": "FFE6A1",
+            "val": 15.0,
+            "cat": "triple sec"
+        }],
+        "unit": "ml",
+        "cocktail": "zombie"
+    },
+    "quickie": {
+        "total": 70.0,
+        "data": [{
+            "color": "CD840B",
+            "val": 30.0,
+            "cat": "bourbon"
+        }, {
+            "color": "FF474C",
+            "val": 30.0,
+            "cat": "light rum"
+        }, {
+            "color": "FFE6A1",
+            "val": 10.0,
+            "cat": "triple sec"
+        }],
+        "unit": "ml",
+        "cocktail": "quickie"
+    },
+    "brave bull": {
+        "total": 75.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "kahlua"
+        }, {
+            "color": "9F7ABB",
+            "val": 45.0,
+            "cat": "tequila"
+        }],
+        "unit": "ml",
+        "cocktail": "brave bull"
+    },
+    "manhattan": {
+        "total": 60.0,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "sweet vermouth"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "manhattan"
+    },
+    "whisky collins": {
+        "total": 210.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 120.0,
+            "cat": "club soda"
+        }, {
+            "color": "4E922E",
+            "val": 60.0,
+            "cat": "sour mix"
+        }, {
+            "color": "D25313",
+            "val": 30.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "whisky collins"
+    },
+    "mcclelland": {
+        "total": 91.8,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "curacao"
+        }, {
+            "color": "A14D90",
+            "val": 1.8,
+            "cat": "orange bitters"
+        }, {
+            "color": "E8BD42",
+            "val": 60.0,
+            "cat": "sloe gin"
+        }],
+        "unit": "ml",
+        "cocktail": "mcclelland"
+    },
+    "earthquake": {
+        "total": 135.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "A01F02",
+            "val": 45.0,
+            "cat": "pernod"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "earthquake"
+    },
+    "yellow rattler": {
+        "total": 180.0,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 90.0,
+            "cat": "orange juice"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "yellow rattler"
+    },
+    "gin rickey": {
+        "total": 68.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "club soda"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }],
+        "unit": "ml",
+        "cocktail": "gin rickey"
+    },
+    "banana boat": {
+        "total": 90.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "creme de banane"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "lime juice"
+        }, {
+            "color": "9F7ABB",
+            "val": 45.0,
+            "cat": "tequila"
+        }],
+        "unit": "ml",
+        "cocktail": "banana boat"
+    },
+    "gimlet": {
+        "total": 75.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 60.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }],
+        "unit": "ml",
+        "cocktail": "gimlet"
+    },
+    "bitter bikini": {
+        "total": 90.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 45.0,
+            "cat": "campari"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "FFE6A1",
+            "val": 15.0,
+            "cat": "triple sec"
+        }],
+        "unit": "ml",
+        "cocktail": "bitter bikini"
+    },
+    "gin fizz": {
+        "total": 185.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 60.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "simple syrup"
+        }, {
+            "color": "7CD1FF",
+            "val": 90.0,
+            "cat": "soda water"
+        }],
+        "unit": "ml",
+        "cocktail": "gin fizz"
+    },
+    "melon colada": {
+        "total": 195.6,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 0.6,
+            "cat": "cream"
+        }, {
+            "color": "E1EDD8",
+            "val": 30.0,
+            "cat": "cream of coconut"
+        }, {
+            "color": "FF474C",
+            "val": 15.0,
+            "cat": "dark rum"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "light rum"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "melon liqueur"
+        }, {
+            "color": "82C73D",
+            "val": 90.0,
+            "cat": "pineapple juice"
+        }],
+        "unit": "ml",
+        "cocktail": "melon colada"
+    },
+    "pink squirrel": {
+        "total": 90.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 60.0,
+            "cat": "cream"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "creme de noyaux"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "pink squirrel"
+    },
+    "scotch mist": {
+        "total": 45.0,
+        "data": [{
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "scotch whisky"
+        }],
+        "unit": "ml",
+        "cocktail": "scotch mist"
+    },
+    "favorite": {
+        "total": 76.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 25.0,
+            "cat": "apricot brandy"
+        }, {
+            "color": "FFDE5B",
+            "val": 25.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 25.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 1.0,
+            "cat": "lemon juice"
+        }],
+        "unit": "ml",
+        "cocktail": "favorite"
+    },
+    "foxy lady": {
+        "total": 90.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 60.0,
+            "cat": "cream"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "creme de noyaux"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "dark creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "foxy lady"
+    },
+    "banana split": {
+        "total": 96.8,
+        "data": [{
+            "color": "F48D02",
+            "val": 1.2,
+            "cat": "cherry brandy"
+        }, {
+            "color": "A01F02",
+            "val": 45.0,
+            "cat": "creme de banane"
+        }, {
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "creme de cacao"
+        }, {
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "creme de noyaux"
+        }, {
+            "color": "EEF8FF",
+            "val": 0.6,
+            "cat": "milk"
+        }],
+        "unit": "ml",
+        "cocktail": "banana split"
+    },
+    "brandy alexander": {
+        "total": 65.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "brandy"
+        }, {
+            "color": "EEF8FF",
+            "val": 25.0,
+            "cat": "heavy cream"
+        }, {
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "brandy alexander"
+    },
+    "algonquin": {
+        "total": 105.0,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "pineapple juice"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "algonquin"
+    },
+    "apres ski": {
+        "total": 90.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "kahlua"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "peppermint schnapps"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "apres ski"
+    },
+    "orange blossom": {
+        "total": 90.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "orange juice"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "orange blossom"
+    },
+    "bronx": {
+        "total": 120.0,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "orange juice"
+        }, {
+            "color": "6B93EB",
+            "val": 30.0,
+            "cat": "orange wedge"
+        }, {
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "bronx"
+    },
+    "rolls royce": {
+        "total": 76.8,
+        "data": [{
+            "color": "A01F02",
+            "val": 1.8,
+            "cat": "benedictine"
+        }, {
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "rolls royce"
+    },
+    "rum sour": {
+        "total": 85.0,
+        "data": [{
+            "color": "FF474C",
+            "val": 60.0,
+            "cat": "dark rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "82C73D",
+            "val": 5.0,
+            "cat": "orange juice"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "rum sour"
+    },
+    "sloe brandy": {
+        "total": 80.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 60.0,
+            "cat": "brandy"
+        }, {
+            "color": "82C73D",
+            "val": 5.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "E8BD42",
+            "val": 15.0,
+            "cat": "sloe gin"
+        }],
+        "unit": "ml",
+        "cocktail": "sloe brandy"
+    },
+    "red devil": {
+        "total": 165.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "creme de banane"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "lime juice"
+        }, {
+            "color": "82C73D",
+            "val": 60.0,
+            "cat": "orange juice"
+        }, {
+            "color": "E8BD42",
+            "val": 15.0,
+            "cat": "sloe gin"
+        }, {
+            "color": "D25313",
+            "val": 15.0,
+            "cat": "southern comfort"
+        }, {
+            "color": "FFE6A1",
+            "val": 15.0,
+            "cat": "triple sec"
+        }, {
+            "color": "FFF576",
+            "val": 15.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "red devil"
+    },
+    "vermouth frappe": {
+        "total": 45.6,
+        "data": [{
+            "color": "A14D90",
+            "val": 0.6,
+            "cat": "angostura bitters"
+        }, {
+            "color": "FFDE5B",
+            "val": 45.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "vermouth frappe"
+    },
+    "sloe gin fizz": {
+        "total": 210.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 120.0,
+            "cat": "club soda"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "sloe gin"
+        }, {
+            "color": "4E922E",
+            "val": 60.0,
+            "cat": "sour mix"
+        }],
+        "unit": "ml",
+        "cocktail": "sloe gin fizz"
+    },
+    "oil slick": {
+        "total": 120.0,
+        "data": [{
+            "color": "FF474C",
+            "val": 30.0,
+            "cat": "dark rum"
+        }, {
+            "color": "EEF8FF",
+            "val": 30.0,
+            "cat": "milk"
+        }, {
+            "color": "FFF576",
+            "val": 30.0,
+            "cat": "vodka"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "oil slick"
+    },
+    "alliance": {
+        "total": 61.2,
+        "data": [{
+            "color": "F68783",
+            "val": 1.2,
+            "cat": "aquavit"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }],
+        "unit": "ml",
+        "cocktail": "alliance"
+    },
+    "toms collins": {
+        "total": 150.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "7CD1FF",
+            "val": 60.0,
+            "cat": "soda water"
+        }, {
+            "color": "0063B2",
+            "val": 15.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "toms collins"
+    },
+    "blizzard": {
+        "total": 165.0,
+        "data": [{
+            "color": "CD840B",
+            "val": 90.0,
+            "cat": "bourbon"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "cranberry juice"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "0063B2",
+            "val": 30.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "blizzard"
+    },
+    "americano": {
+        "total": 67.5,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "campari"
+        }, {
+            "color": "7CD1FF",
+            "val": 7.5,
+            "cat": "soda water"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "americano"
+    },
+    "italian stallion": {
+        "total": 75.6,
+        "data": [{
+            "color": "A14D90",
+            "val": 0.6,
+            "cat": "angostura bitters"
+        }, {
+            "color": "CD840B",
+            "val": 45.0,
+            "cat": "bourbon"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "campari"
+        }, {
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "italian stallion"
+    },
+    "godmother": {
+        "total": 90.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "amaretto"
+        }, {
+            "color": "FFF576",
+            "val": 60.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "godmother"
+    },
+    "highland fling": {
+        "total": 61.8,
+        "data": [{
+            "color": "A14D90",
+            "val": 1.8,
+            "cat": "orange bitters"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "scotch whisky"
+        }, {
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "highland fling"
+    },
+    "martinez": {
+        "total": 180.6,
+        "data": [{
+            "color": "E8BD42",
+            "val": 75.0,
+            "cat": "gin"
+        }, {
+            "color": "A01F02",
+            "val": 45.0,
+            "cat": "maraschino liqueur"
+        }, {
+            "color": "A14D90",
+            "val": 0.6,
+            "cat": "orange bitters"
+        }, {
+            "color": "FFDE5B",
+            "val": 60.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "martinez"
+    },
+    "french connection": {
+        "total": 90.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 60.0,
+            "cat": "brandy"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "creme de noyaux"
+        }],
+        "unit": "ml",
+        "cocktail": "french connection"
+    },
+    "vodka grasshopper": {
+        "total": 75.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "green creme de menthe"
+        }, {
+            "color": "FFF576",
+            "val": 15.0,
+            "cat": "vodka"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "vodka grasshopper"
+    },
+    "bobby burns": {
+        "total": 90.6,
+        "data": [{
+            "color": "A01F02",
+            "val": 0.6,
+            "cat": "benedictine"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "D25313",
+            "val": 30.0,
+            "cat": "scotch whisky"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "bobby burns"
+    },
+    "traffic light": {
+        "total": 45.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "creme de banane"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "green creme de menthe"
+        }, {
+            "color": "E8BD42",
+            "val": 15.0,
+            "cat": "sloe gin"
+        }],
+        "unit": "ml",
+        "cocktail": "traffic light"
+    },
+    "roasted toasted almond": {
+        "total": 100.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 25.0,
+            "cat": "cream"
+        }, {
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "creme de noyaux"
+        }, {
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "kahlua"
+        }, {
+            "color": "FFF576",
+            "val": 25.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "roasted toasted almond"
+    },
+    "caipirinha": {
+        "total": 62.5,
+        "data": [{
+            "color": "F48D02",
+            "val": 52.5,
+            "cat": "cachaca"
+        }, {
+            "color": "C7F0EF",
+            "val": 10.0,
+            "cat": "sugar"
+        }],
+        "unit": "ml",
+        "cocktail": "caipirinha"
+    },
+    "cuba libre": {
+        "total": 68.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "cola"
+        }, {
+            "color": "FF474C",
+            "val": 60.0,
+            "cat": "light rum"
+        }],
+        "unit": "ml",
+        "cocktail": "cuba libre"
+    },
+    "havana club": {
+        "total": 60.0,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "light rum"
+        }],
+        "unit": "ml",
+        "cocktail": "havana club"
+    },
+    "bijou": {
+        "total": 105.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "green chartreuse"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "bijou"
+    },
+    "sombrero": {
+        "total": 60.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 15.0,
+            "cat": "cream"
+        }, {
+            "color": "A01F02",
+            "val": 45.0,
+            "cat": "kahlua"
+        }],
+        "unit": "ml",
+        "cocktail": "sombrero"
+    },
+    "sledgehammer": {
+        "total": 75.6,
+        "data": [{
+            "color": "F48D02",
+            "val": 25.0,
+            "cat": "apple brandy"
+        }, {
+            "color": "F48D02",
+            "val": 25.0,
+            "cat": "brandy"
+        }, {
+            "color": "FF474C",
+            "val": 25.0,
+            "cat": "gold rum"
+        }, {
+            "color": "A01F02",
+            "val": 0.6,
+            "cat": "pernod"
+        }],
+        "unit": "ml",
+        "cocktail": "sledgehammer"
+    },
+    "yellow fever": {
+        "total": 53.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 8.0,
+            "cat": "lemonade"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "yellow fever"
+    },
+    "addington": {
+        "total": 210.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 120.0,
+            "cat": "club soda"
+        }, {
+            "color": "FFDE5B",
+            "val": 45.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "FFDE5B",
+            "val": 45.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "addington"
+    },
+    "pink gin": {
+        "total": 91.8,
+        "data": [{
+            "color": "A14D90",
+            "val": 1.8,
+            "cat": "angostura bitters"
+        }, {
+            "color": "E8BD42",
+            "val": 90.0,
+            "cat": "gin"
+        }],
+        "unit": "ml",
+        "cocktail": "pink gin"
+    },
+    "rum collins": {
+        "total": 200.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 120.0,
+            "cat": "club soda"
+        }, {
+            "color": "FF474C",
+            "val": 60.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "rum collins"
+    },
+    "prince": {
+        "total": 46.800000000000004,
+        "data": [{
+            "color": "A14D90",
+            "val": 1.2,
+            "cat": "orange bitters"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "whiskey"
+        }, {
+            "color": "A01F02",
+            "val": 0.6,
+            "cat": "white creme de menthe"
+        }],
+        "unit": "ml",
+        "cocktail": "prince"
+    },
+    "dark eyes": {
+        "total": 65.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 10.0,
+            "cat": "blackberry brandy"
+        }, {
+            "color": "82C73D",
+            "val": 10.0,
+            "cat": "lime juice"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "dark eyes"
+    },
+    "angel face": {
+        "total": 60.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "apple brandy"
+        }, {
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "apricot brandy"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }],
+        "unit": "ml",
+        "cocktail": "angel face"
+    },
+    "slippery nipple": {
+        "total": 105.6,
+        "data": [{
+            "color": "0063B2",
+            "val": 0.6,
+            "cat": "grenadine"
+        }, {
+            "color": "FDD8C7",
+            "val": 45.0,
+            "cat": "irish cream"
+        }, {
+            "color": "A01F02",
+            "val": 60.0,
+            "cat": "sambuca"
+        }],
+        "unit": "ml",
+        "cocktail": "slippery nipple"
+    },
+    "moll cocktail": {
+        "total": 90.6,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "A14D90",
+            "val": 0.6,
+            "cat": "orange bitters"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "sloe gin"
+        }],
+        "unit": "ml",
+        "cocktail": "moll cocktail"
+    },
+    "jelly bean": {
+        "total": 60.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "anisette"
+        }, {
+            "color": "F48D02",
+            "val": 30.0,
+            "cat": "blackberry brandy"
+        }],
+        "unit": "ml",
+        "cocktail": "jelly bean"
+    },
+    "down the hatch": {
+        "total": 63.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 1.8,
+            "cat": "blackberry brandy"
+        }, {
+            "color": "A14D90",
+            "val": 1.2,
+            "cat": "orange bitters"
+        }, {
+            "color": "D25313",
+            "val": 60.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "down the hatch"
+    },
+    "white russian": {
+        "total": 100.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 25.0,
+            "cat": "heavy cream"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "white russian"
+    },
+    "apricot sour": {
+        "total": 98.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 45.0,
+            "cat": "apricot brandy"
+        }, {
+            "color": "82C73D",
+            "val": 45.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "82C73D",
+            "val": 8.0,
+            "cat": "orange juice"
+        }],
+        "unit": "ml",
+        "cocktail": "apricot sour"
+    },
+    "bull frog": {
+        "total": 53.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 8.0,
+            "cat": "lime juice"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "bull frog"
+    },
+    "white elephant": {
+        "total": 90.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 60.0,
+            "cat": "cream"
+        }, {
+            "color": "FFF576",
+            "val": 15.0,
+            "cat": "vodka"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "white elephant"
+    },
+    "scotch and soda": {
+        "total": 53.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "club soda"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "scotch whisky"
+        }],
+        "unit": "ml",
+        "cocktail": "scotch and soda"
+    },
+    "black hawk": {
+        "total": 90.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "sloe gin"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "black hawk"
+    },
+    "mexican coffee": {
+        "total": 38.0,
+        "data": [{
+            "color": "D2B69D",
+            "val": 8.0,
+            "cat": "coffee"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "kahlua"
+        }, {
+            "color": "9F7ABB",
+            "val": 15.0,
+            "cat": "tequila"
+        }],
+        "unit": "ml",
+        "cocktail": "mexican coffee"
+    },
+    "cosmopolitan": {
+        "total": 89.6,
+        "data": [{
+            "color": "82C73D",
+            "val": 22.0,
+            "cat": "cranberry juice"
+        }, {
+            "color": "82C73D",
+            "val": 0.6,
+            "cat": "lime juice"
+        }, {
+            "color": "FFE6A1",
+            "val": 22.0,
+            "cat": "triple sec"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "cosmopolitan"
+    },
+    "american beauty": {
+        "total": 105.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 25.0,
+            "cat": "brandy"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "creme de menthe"
+        }, {
+            "color": "FFDE5B",
+            "val": 25.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "0063B2",
+            "val": 15.0,
+            "cat": "grenadine"
+        }, {
+            "color": "82C73D",
+            "val": 25.0,
+            "cat": "orange juice"
+        }],
+        "unit": "ml",
+        "cocktail": "american beauty"
+    },
+    "white spider": {
+        "total": 90.0,
+        "data": [{
+            "color": "FFF576",
+            "val": 60.0,
+            "cat": "vodka"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "white creme de menthe"
+        }],
+        "unit": "ml",
+        "cocktail": "white spider"
+    },
+    "apple daiquiri": {
+        "total": 75.6,
+        "data": [{
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "apple juice"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "0063B2",
+            "val": 0.6,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "apple daiquiri"
+    },
+    "rob roy": {
+        "total": 75.6,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "A14D90",
+            "val": 0.6,
+            "cat": "orange bitters"
+        }, {
+            "color": "D25313",
+            "val": 60.0,
+            "cat": "scotch whisky"
+        }],
+        "unit": "ml",
+        "cocktail": "rob roy"
+    },
+    "quaker": {
+        "total": 105.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 45.0,
+            "cat": "brandy"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "FF474C",
+            "val": 30.0,
+            "cat": "light rum"
+        }, {
+            "color": "0063B2",
+            "val": 15.0,
+            "cat": "raspberry syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "quaker"
+    },
+    "mary pickford": {
+        "total": 61.8,
+        "data": [{
+            "color": "0063B2",
+            "val": 1.8,
+            "cat": "grenadine"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "pineapple juice"
+        }],
+        "unit": "ml",
+        "cocktail": "mary pickford"
+    },
+    "fog horn": {
+        "total": 68.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 60.0,
+            "cat": "gin"
+        }, {
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "ginger ale"
+        }],
+        "unit": "ml",
+        "cocktail": "fog horn"
+    },
+    "gin daiquiri": {
+        "total": 75.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "FF474C",
+            "val": 15.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 10.0,
+            "cat": "lime juice"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "gin daiquiri"
+    },
+    "delmonico": {
+        "total": 70.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "brandy"
+        }, {
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 25.0,
+            "cat": "gin"
+        }, {
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "delmonico"
+    },
+    "russian": {
+        "total": 90.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "FFF576",
+            "val": 30.0,
+            "cat": "vodka"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "russian"
+    },
+    "sloe screw": {
+        "total": 53.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 8.0,
+            "cat": "orange juice"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "sloe gin"
+        }],
+        "unit": "ml",
+        "cocktail": "sloe screw"
+    },
+    "seville": {
+        "total": 100.0,
+        "data": [{
+            "color": "CF548C",
+            "val": 15.0,
+            "cat": "dry sherry"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "orange juice"
+        }, {
+            "color": "0063B2",
+            "val": 10.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "seville"
+    },
+    "pink lady": {
+        "total": 127.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 45.0,
+            "cat": "apple brandy"
+        }, {
+            "color": "F1F1F1",
+            "val": 5.0,
+            "cat": "egg whites"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "0063B2",
+            "val": 9.0,
+            "cat": "grenadine"
+        }, {
+            "color": "82C73D",
+            "val": 23.0,
+            "cat": "lemon juice"
+        }],
+        "unit": "ml",
+        "cocktail": "pink lady"
+    },
+    "campobello": {
+        "total": 105.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "campari"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "campobello"
+    },
+    "coco-loco": {
+        "total": 80.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "green creme de menthe"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "coco-loco"
+    },
+    "long island iced tea": {
+        "total": 128.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "cola"
+        }, {
+            "color": "E8BD42",
+            "val": 15.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "FF474C",
+            "val": 15.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "0063B2",
+            "val": 15.0,
+            "cat": "sugar syrup"
+        }, {
+            "color": "9F7ABB",
+            "val": 15.0,
+            "cat": "tequila"
+        }, {
+            "color": "FFE6A1",
+            "val": 15.0,
+            "cat": "triple sec"
+        }, {
+            "color": "FFF576",
+            "val": 15.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "long island iced tea"
+    },
+    "hudson bay": {
+        "total": 70.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "cherry brandy"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 5.0,
+            "cat": "lime juice"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "orange juice"
+        }, {
+            "color": "FF474C",
+            "val": 5.0,
+            "cat": "rum"
+        }],
+        "unit": "ml",
+        "cocktail": "hudson bay"
+    },
+    "black-eyed susan": {
+        "total": 90.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "brandy"
+        }, {
+            "color": "A01F02",
+            "val": 60.0,
+            "cat": "grand marnier"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "white creme de menthe"
+        }],
+        "unit": "ml",
+        "cocktail": "black-eyed susan"
+    },
+    "azteca": {
+        "total": 106.2,
+        "data": [{
+            "color": "A01F02",
+            "val": 1.2,
+            "cat": "curacao"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "kahlua"
+        }, {
+            "color": "9F7ABB",
+            "val": 45.0,
+            "cat": "tequila"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "azteca"
+    },
+    "whiskey sour": {
+        "total": 90.0,
+        "data": [{
+            "color": "4E922E",
+            "val": 60.0,
+            "cat": "sour mix"
+        }, {
+            "color": "D25313",
+            "val": 30.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "whiskey sour"
+    },
+    "flim flam": {
+        "total": 100.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "orange juice"
+        }, {
+            "color": "FFE6A1",
+            "val": 25.0,
+            "cat": "triple sec"
+        }],
+        "unit": "ml",
+        "cocktail": "flim flam"
+    },
+    "houston hurricane": {
+        "total": 135.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 45.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "D25313",
+            "val": 30.0,
+            "cat": "whiskey"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "white creme de menthe"
+        }],
+        "unit": "ml",
+        "cocktail": "houston hurricane"
+    },
+    "black russian": {
+        "total": 90.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "kahlua"
+        }, {
+            "color": "FFF576",
+            "val": 60.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "black russian"
+    },
+    "eclipse": {
+        "total": 53.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "club soda"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "irish whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "eclipse"
+    },
+    "whisky rickey": {
+        "total": 185.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 120.0,
+            "cat": "club soda"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "whisky rickey"
+    },
+    "gin sour": {
+        "total": 110.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 75.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "gin sour"
+    },
+    "black manhattan": {
+        "total": 55.0,
+        "data": [{
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "irish whiskey"
+        }, {
+            "color": "FFDE5B",
+            "val": 10.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "black manhattan"
+    },
+    "jamaican": {
+        "total": 210.6,
+        "data": [{
+            "color": "A14D90",
+            "val": 0.6,
+            "cat": "angostura bitters"
+        }, {
+            "color": "FF474C",
+            "val": 30.0,
+            "cat": "dark rum"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "kahlua"
+        }, {
+            "color": "82C73D",
+            "val": 120.0,
+            "cat": "lemonade"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "lime juice"
+        }],
+        "unit": "ml",
+        "cocktail": "jamaican"
+    },
+    "bloody mary": {
+        "total": 151.2,
+        "data": [{
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "D7D7D7",
+            "val": 0.6,
+            "cat": "tabasco"
+        }, {
+            "color": "82C73D",
+            "val": 90.0,
+            "cat": "tomato juice"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }, {
+            "color": "AAAAAA",
+            "val": 0.6,
+            "cat": "worcester sauce"
+        }],
+        "unit": "ml",
+        "cocktail": "bloody mary"
+    },
+    "new orleans": {
+        "total": 64.2,
+        "data": [{
+            "color": "A14D90",
+            "val": 2.4,
+            "cat": "angostura bitters"
+        }, {
+            "color": "A01F02",
+            "val": 0.6,
+            "cat": "anisette"
+        }, {
+            "color": "CD840B",
+            "val": 45.0,
+            "cat": "bourbon"
+        }, {
+            "color": "A14D90",
+            "val": 0.6,
+            "cat": "orange bitters"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "pernod"
+        }, {
+            "color": "0063B2",
+            "val": 0.6,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "new orleans"
+    },
+    "blue hawaiian": {
+        "total": 150.0,
+        "data": [{
+            "color": "E1EDD8",
+            "val": 30.0,
+            "cat": "cream of coconut"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "curacao"
+        }, {
+            "color": "FF474C",
+            "val": 30.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 60.0,
+            "cat": "pineapple juice"
+        }],
+        "unit": "ml",
+        "cocktail": "blue hawaiian"
+    },
+    "savoy hotel": {
+        "total": 45.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "benedictine"
+        }, {
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "brandy"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "savoy hotel"
+    },
+    "pink almond": {
+        "total": 90.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "cherry brandy"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "creme de noyaux"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "D25313",
+            "val": 30.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "pink almond"
+    },
+    "brown bomber": {
+        "total": 90.0,
+        "data": [{
+            "color": "EEF8FF",
+            "val": 60.0,
+            "cat": "cream"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "peanut liqueur"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "brown bomber"
+    },
+    "jamaica cooler": {
+        "total": 104.2,
+        "data": [{
+            "color": "FF474C",
+            "val": 75.0,
+            "cat": "dark rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "82C73D",
+            "val": 8.0,
+            "cat": "lemonade"
+        }, {
+            "color": "A14D90",
+            "val": 1.2,
+            "cat": "orange bitters"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "jamaica cooler"
+    },
+    "bolero": {
+        "total": 71.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 25.0,
+            "cat": "apple brandy"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "light rum"
+        }, {
+            "color": "FFDE5B",
+            "val": 1.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "bolero"
+    },
+    "mah-jonng": {
+        "total": 60.0,
+        "data": [{
+            "color": "FFE6A1",
+            "val": 15.0,
+            "cat": "cointreau"
+        }, {
+            "color": "FF474C",
+            "val": 15.0,
+            "cat": "dark rum"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }],
+        "unit": "ml",
+        "cocktail": "mah-jonng"
+    },
+    "kahlua egg cream": {
+        "total": 98.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "club soda"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "kahlua"
+        }, {
+            "color": "EEF8FF",
+            "val": 60.0,
+            "cat": "milk"
+        }],
+        "unit": "ml",
+        "cocktail": "kahlua egg cream"
+    },
+    "florida": {
+        "total": 120.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 5.0,
+            "cat": "cherry brandy"
+        }, {
+            "color": "E8BD42",
+            "val": 15.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 5.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "82C73D",
+            "val": 90.0,
+            "cat": "orange juice"
+        }, {
+            "color": "FFE6A1",
+            "val": 5.0,
+            "cat": "triple sec"
+        }],
+        "unit": "ml",
+        "cocktail": "florida"
+    },
+    "metropolitan": {
+        "total": 79.2,
+        "data": [{
+            "color": "A14D90",
+            "val": 1.2,
+            "cat": "angostura bitters"
+        }, {
+            "color": "F48D02",
+            "val": 45.0,
+            "cat": "brandy"
+        }, {
+            "color": "0063B2",
+            "val": 3.0,
+            "cat": "simple syrup"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "metropolitan"
+    },
+    "paisley martini": {
+        "total": 61.2,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 0.6,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 60.0,
+            "cat": "gin"
+        }, {
+            "color": "D25313",
+            "val": 0.6,
+            "cat": "scotch whisky"
+        }],
+        "unit": "ml",
+        "cocktail": "paisley martini"
+    },
+    "boston": {
+        "total": 97.5,
+        "data": [{
+            "color": "F48D02",
+            "val": 30.0,
+            "cat": "apricot brandy"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "0063B2",
+            "val": 15.0,
+            "cat": "grenadine"
+        }, {
+            "color": "82C73D",
+            "val": 22.5,
+            "cat": "lemon juice"
+        }],
+        "unit": "ml",
+        "cocktail": "boston"
+    },
+    "royal screw": {
+        "total": 128.0,
+        "data": [{
+            "color": "CF548C",
+            "val": 8.0,
+            "cat": "champagne"
+        }, {
+            "color": "F48D02",
+            "val": 60.0,
+            "cat": "cognac"
+        }, {
+            "color": "82C73D",
+            "val": 60.0,
+            "cat": "orange juice"
+        }],
+        "unit": "ml",
+        "cocktail": "royal screw"
+    },
+    "dirty mother": {
+        "total": 70.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 45.0,
+            "cat": "brandy"
+        }, {
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "kahlua"
+        }],
+        "unit": "ml",
+        "cocktail": "dirty mother"
+    },
+    "ink street": {
+        "total": 95.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 25.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "82C73D",
+            "val": 25.0,
+            "cat": "orange juice"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "ink street"
+    },
+    "negroni": {
+        "total": 135.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 45.0,
+            "cat": "campari"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "FFDE5B",
+            "val": 45.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "negroni"
+    },
+    "sloppy joe": {
+        "total": 61.2,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "0063B2",
+            "val": 0.6,
+            "cat": "grenadine"
+        }, {
+            "color": "FF474C",
+            "val": 15.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "lime juice"
+        }, {
+            "color": "FFE6A1",
+            "val": 0.6,
+            "cat": "triple sec"
+        }],
+        "unit": "ml",
+        "cocktail": "sloppy joe"
+    },
+    "acapulco": {
+        "total": 90.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "9F7ABB",
+            "val": 45.0,
+            "cat": "tequila"
+        }, {
+            "color": "FFE6A1",
+            "val": 15.0,
+            "cat": "triple sec"
+        }, {
+            "color": "FF474C",
+            "val": 15.0,
+            "cat": "white rum"
+        }],
+        "unit": "ml",
+        "cocktail": "acapulco"
+    },
+    "jungle jim": {
+        "total": 90.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "creme de banane"
+        }, {
+            "color": "EEF8FF",
+            "val": 30.0,
+            "cat": "milk"
+        }, {
+            "color": "FFF576",
+            "val": 30.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "jungle jim"
+    },
+    "bellini": {
+        "total": 150.0,
+        "data": [{
+            "color": "CF548C",
+            "val": 90.0,
+            "cat": "champagne"
+        }, {
+            "color": "6B93EB",
+            "val": 60.0,
+            "cat": "peach puree"
+        }],
+        "unit": "ml",
+        "cocktail": "bellini"
+    },
+    "allegheny": {
+        "total": 70.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 5.0,
+            "cat": "blackberry brandy"
+        }, {
+            "color": "CD840B",
+            "val": 30.0,
+            "cat": "bourbon"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "82C73D",
+            "val": 5.0,
+            "cat": "lemon juice"
+        }],
+        "unit": "ml",
+        "cocktail": "allegheny"
+    },
+    "mexican flag": {
+        "total": 45.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "melon liqueur"
+        }, {
+            "color": "E8BD42",
+            "val": 15.0,
+            "cat": "sloe gin"
+        }, {
+            "color": "FFF576",
+            "val": 15.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "mexican flag"
+    },
+    "sidecar": {
+        "total": 89.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 45.0,
+            "cat": "cognac"
+        }, {
+            "color": "82C73D",
+            "val": 22.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "FFE6A1",
+            "val": 22.0,
+            "cat": "triple sec"
+        }],
+        "unit": "ml",
+        "cocktail": "sidecar"
+    },
+    "pavarotti": {
+        "total": 75.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "brandy"
+        }, {
+            "color": "A01F02",
+            "val": 45.0,
+            "cat": "creme de noyaux"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "pavarotti"
+    },
+    "tequila manhattan": {
+        "total": 105.0,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 45.0,
+            "cat": "sweet vermouth"
+        }, {
+            "color": "9F7ABB",
+            "val": 60.0,
+            "cat": "tequila"
+        }],
+        "unit": "ml",
+        "cocktail": "tequila manhattan"
+    },
+    "b.v.d.": {
+        "total": 95.0,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 25.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "FF474C",
+            "val": 25.0,
+            "cat": "light rum"
+        }],
+        "unit": "ml",
+        "cocktail": "b.v.d."
+    },
+    "seventh heaven": {
+        "total": 48.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 10.0,
+            "cat": "creme de noyaux"
+        }, {
+            "color": "82C73D",
+            "val": 8.0,
+            "cat": "orange juice"
+        }, {
+            "color": "D25313",
+            "val": 30.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "seventh heaven"
+    },
+    "ladyfinger": {
+        "total": 60.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 30.0,
+            "cat": "cherry brandy"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }],
+        "unit": "ml",
+        "cocktail": "ladyfinger"
+    },
+    "moscow mule": {
+        "total": 88.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "ginger ale"
+        }, {
+            "color": "82C73D",
+            "val": 5.0,
+            "cat": "lime juice"
+        }, {
+            "color": "FFF576",
+            "val": 75.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "moscow mule"
+    },
+    "tootsie roll": {
+        "total": 30.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "chocolate orange liqueur"
+        }],
+        "unit": "ml",
+        "cocktail": "tootsie roll"
+    },
+    "whisky highball": {
+        "total": 38.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "club soda"
+        }, {
+            "color": "D25313",
+            "val": 30.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "whisky highball"
+    },
+    "lube job": {
+        "total": 60.0,
+        "data": [{
+            "color": "FDD8C7",
+            "val": 30.0,
+            "cat": "irish cream"
+        }, {
+            "color": "FFF576",
+            "val": 30.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "lube job"
+    },
+    "fuzzy navel": {
+        "total": 180.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 120.0,
+            "cat": "orange juice"
+        }, {
+            "color": "A01F02",
+            "val": 60.0,
+            "cat": "peach schnapps"
+        }],
+        "unit": "ml",
+        "cocktail": "fuzzy navel"
+    },
+    "gin alexander": {
+        "total": 45.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "dark creme de cacao"
+        }, {
+            "color": "E8BD42",
+            "val": 15.0,
+            "cat": "gin"
+        }, {
+            "color": "EEF8FF",
+            "val": 15.0,
+            "cat": "heavy cream"
+        }],
+        "unit": "ml",
+        "cocktail": "gin alexander"
+    },
+    "morning glory": {
+        "total": 190.4,
+        "data": [{
+            "color": "A14D90",
+            "val": 2.4,
+            "cat": "angostura bitters"
+        }, {
+            "color": "F48D02",
+            "val": 30.0,
+            "cat": "brandy"
+        }, {
+            "color": "7CD1FF",
+            "val": 120.0,
+            "cat": "club soda"
+        }, {
+            "color": "A01F02",
+            "val": 2.4,
+            "cat": "curacao"
+        }, {
+            "color": "A01F02",
+            "val": 0.6,
+            "cat": "pernod"
+        }, {
+            "color": "D25313",
+            "val": 30.0,
+            "cat": "scotch whisky"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "morning glory"
+    },
+    "fern gully": {
+        "total": 130.0,
+        "data": [{
+            "color": "E1EDD8",
+            "val": 15.0,
+            "cat": "cream of coconut"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "creme de noyaux"
+        }, {
+            "color": "FF474C",
+            "val": 30.0,
+            "cat": "dark rum"
+        }, {
+            "color": "FF474C",
+            "val": 30.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 10.0,
+            "cat": "lime juice"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "orange juice"
+        }],
+        "unit": "ml",
+        "cocktail": "fern gully"
+    },
+    "ferrari": {
+        "total": 90.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "creme de noyaux"
+        }, {
+            "color": "FFDE5B",
+            "val": 60.0,
+            "cat": "dry vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "ferrari"
+    },
+    "alabazam": {
+        "total": 91.2,
+        "data": [{
+            "color": "F48D02",
+            "val": 60.0,
+            "cat": "cognac"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "curacao"
+        }, {
+            "color": "82C73D",
+            "val": 5.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "A14D90",
+            "val": 1.2,
+            "cat": "orange bitters"
+        }, {
+            "color": "0063B2",
+            "val": 10.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "alabazam"
+    },
+    "derby special": {
+        "total": 90.6,
+        "data": [{
+            "color": "CD840B",
+            "val": 30.0,
+            "cat": "bourbon"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "creme de banane"
+        }, {
+            "color": "A01F02",
+            "val": 0.6,
+            "cat": "grand marnier"
+        }, {
+            "color": "EEF8FF",
+            "val": 30.0,
+            "cat": "heavy cream"
+        }],
+        "unit": "ml",
+        "cocktail": "derby special"
+    },
+    "fantasio": {
+        "total": 65.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 30.0,
+            "cat": "brandy"
+        }, {
+            "color": "FFDE5B",
+            "val": 25.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "A01F02",
+            "val": 5.0,
+            "cat": "maraschino liqueur"
+        }, {
+            "color": "A01F02",
+            "val": 5.0,
+            "cat": "white creme de cacao"
+        }],
+        "unit": "ml",
+        "cocktail": "fantasio"
+    },
+    "trade winds": {
+        "total": 105.0,
+        "data": [{
+            "color": "FF474C",
+            "val": 60.0,
+            "cat": "gold rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "0063B2",
+            "val": 15.0,
+            "cat": "orgeat syrup"
+        }, {
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "plum brandy"
+        }],
+        "unit": "ml",
+        "cocktail": "trade winds"
+    },
+    "hammerhead": {
+        "total": 90.6,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "creme de noyaux"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "curacao"
+        }, {
+            "color": "FF474C",
+            "val": 30.0,
+            "cat": "gold rum"
+        }, {
+            "color": "D25313",
+            "val": 0.6,
+            "cat": "southern comfort"
+        }],
+        "unit": "ml",
+        "cocktail": "hammerhead"
+    },
+    "rocky green dragon": {
+        "total": 70.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "cognac"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "green chartreuse"
+        }],
+        "unit": "ml",
+        "cocktail": "rocky green dragon"
+    },
+    "godfather": {
+        "total": 70.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "creme de noyaux"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "scotch whisky"
+        }],
+        "unit": "ml",
+        "cocktail": "godfather"
+    },
+    "dark and stormy": {
+        "total": 165.0,
+        "data": [{
+            "color": "FF474C",
+            "val": 60.0,
+            "cat": "dark rum"
+        }, {
+            "color": "7CD1FF",
+            "val": 105.0,
+            "cat": "ginger beer"
+        }],
+        "unit": "ml",
+        "cocktail": "dark and stormy"
+    },
+    "barnum": {
+        "total": 47.400000000000006,
+        "data": [{
+            "color": "A14D90",
+            "val": 1.2,
+            "cat": "angostura bitters"
+        }, {
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "apricot brandy"
+        }, {
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 1.2,
+            "cat": "lemon juice"
+        }],
+        "unit": "ml",
+        "cocktail": "barnum"
+    },
+    "kir": {
+        "total": 115.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "creme de cassis"
+        }, {
+            "color": "CF548C",
+            "val": 90.0,
+            "cat": "white wine"
+        }],
+        "unit": "ml",
+        "cocktail": "kir"
+    },
+    "b-52": {
+        "total": 90.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "grand marnier"
+        }, {
+            "color": "FDD8C7",
+            "val": 30.0,
+            "cat": "irish cream"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "kahlua"
+        }],
+        "unit": "ml",
+        "cocktail": "b-52"
+    },
+    "new world": {
+        "total": 65.0,
+        "data": [{
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "grenadine"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "new world"
+    },
+    "southern gin": {
+        "total": 76.8,
+        "data": [{
+            "color": "A01F02",
+            "val": 0.6,
+            "cat": "curacao"
+        }, {
+            "color": "E8BD42",
+            "val": 75.0,
+            "cat": "gin"
+        }, {
+            "color": "A14D90",
+            "val": 1.2,
+            "cat": "orange bitters"
+        }],
+        "unit": "ml",
+        "cocktail": "southern gin"
+    },
+    "mimosa": {
+        "total": 180.0,
+        "data": [{
+            "color": "CF548C",
+            "val": 120.0,
+            "cat": "champagne"
+        }, {
+            "color": "82C73D",
+            "val": 60.0,
+            "cat": "orange juice"
+        }],
+        "unit": "ml",
+        "cocktail": "mimosa"
+    },
+    "alfredo": {
+        "total": 90.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 45.0,
+            "cat": "campari"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }],
+        "unit": "ml",
+        "cocktail": "alfredo"
+    },
+    "grand slam": {
+        "total": 105.0,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "A01F02",
+            "val": 45.0,
+            "cat": "swedish punsch"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "grand slam"
+    },
+    "dodge special": {
+        "total": 90.6,
+        "data": [{
+            "color": "FFE6A1",
+            "val": 45.0,
+            "cat": "cointreau"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 0.6,
+            "cat": "grape juice"
+        }],
+        "unit": "ml",
+        "cocktail": "dodge special"
+    },
+    "daiquiri": {
+        "total": 75.6,
+        "data": [{
+            "color": "FF474C",
+            "val": 60.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "0063B2",
+            "val": 0.6,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "daiquiri"
+    },
+    "planter's punch": {
+        "total": 105.6,
+        "data": [{
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "dark rum"
+        }, {
+            "color": "0063B2",
+            "val": 0.6,
+            "cat": "grenadine"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "82C73D",
+            "val": 45.0,
+            "cat": "orange juice"
+        }],
+        "unit": "ml",
+        "cocktail": "planter's punch"
+    },
+    "sloe tequila": {
+        "total": 80.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 5.0,
+            "cat": "lime juice"
+        }, {
+            "color": "E8BD42",
+            "val": 15.0,
+            "cat": "sloe gin"
+        }, {
+            "color": "9F7ABB",
+            "val": 60.0,
+            "cat": "tequila"
+        }],
+        "unit": "ml",
+        "cocktail": "sloe tequila"
+    },
+    "sazerac": {
+        "total": 68.6,
+        "data": [{
+            "color": "A14D90",
+            "val": 1.8,
+            "cat": "angostura bitters"
+        }, {
+            "color": "CD840B",
+            "val": 60.0,
+            "cat": "bourbon"
+        }, {
+            "color": "A01F02",
+            "val": 1.8,
+            "cat": "pernod"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "sazerac"
+    },
+    "klondike cooler": {
+        "total": 128.0,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "ginger ale"
+        }, {
+            "color": "82C73D",
+            "val": 75.0,
+            "cat": "orange juice"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "klondike cooler"
+    },
+    "affinity cocktail": {
+        "total": 91.2,
+        "data": [{
+            "color": "A14D90",
+            "val": 1.2,
+            "cat": "angostura bitters"
+        }, {
+            "color": "CF548C",
+            "val": 30.0,
+            "cat": "dry sherry"
+        }, {
+            "color": "CF548C",
+            "val": 30.0,
+            "cat": "port wine"
+        }, {
+            "color": "D25313",
+            "val": 30.0,
+            "cat": "scotch whisky"
+        }],
+        "unit": "ml",
+        "cocktail": "affinity cocktail"
+    },
+    "tivoli": {
+        "total": 75.6,
+        "data": [{
+            "color": "F68783",
+            "val": 15.0,
+            "cat": "aquavit"
+        }, {
+            "color": "CD840B",
+            "val": 45.0,
+            "cat": "bourbon"
+        }, {
+            "color": "A01F02",
+            "val": 0.6,
+            "cat": "campari"
+        }, {
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "tivoli"
+    },
+    "fogcutter": {
+        "total": 165.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 15.0,
+            "cat": "brandy"
+        }, {
+            "color": "E8BD42",
+            "val": 15.0,
+            "cat": "gin"
+        }, {
+            "color": "FF474C",
+            "val": 15.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 90.0,
+            "cat": "pineapple juice"
+        }, {
+            "color": "4E922E",
+            "val": 30.0,
+            "cat": "sour mix"
+        }],
+        "unit": "ml",
+        "cocktail": "fogcutter"
+    },
+    "applecar": {
+        "total": 90.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 30.0,
+            "cat": "apple brandy"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "FFE6A1",
+            "val": 30.0,
+            "cat": "triple sec"
+        }],
+        "unit": "ml",
+        "cocktail": "applecar"
+    },
+    "volga boatman": {
+        "total": 105.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 30.0,
+            "cat": "cherry brandy"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "orange juice"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "volga boatman"
+    },
+    "twin hills": {
+        "total": 70.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 10.0,
+            "cat": "benedictine"
+        }, {
+            "color": "82C73D",
+            "val": 5.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "82C73D",
+            "val": 5.0,
+            "cat": "lime juice"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "whiskey"
+        }],
+        "unit": "ml",
+        "cocktail": "twin hills"
+    },
+    "gin and tonic": {
+        "total": 135.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "7CD1FF",
+            "val": 90.0,
+            "cat": "tonic water"
+        }],
+        "unit": "ml",
+        "cocktail": "gin and tonic"
+    },
+    "miami beach": {
+        "total": 120.0,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 45.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "grape juice"
+        }, {
+            "color": "D25313",
+            "val": 45.0,
+            "cat": "scotch whisky"
+        }],
+        "unit": "ml",
+        "cocktail": "miami beach"
+    },
+    "kentucky cocktail": {
+        "total": 90.0,
+        "data": [{
+            "color": "CD840B",
+            "val": 60.0,
+            "cat": "bourbon"
+        }, {
+            "color": "82C73D",
+            "val": 30.0,
+            "cat": "pineapple juice"
+        }],
+        "unit": "ml",
+        "cocktail": "kentucky cocktail"
+    },
+    "blackthorn": {
+        "total": 90.0,
+        "data": [{
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "sloe gin"
+        }, {
+            "color": "FFDE5B",
+            "val": 45.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "blackthorn"
+    },
+    "jewel": {
+        "total": 91.2,
+        "data": [{
+            "color": "E8BD42",
+            "val": 30.0,
+            "cat": "gin"
+        }, {
+            "color": "A01F02",
+            "val": 30.0,
+            "cat": "green chartreuse"
+        }, {
+            "color": "A14D90",
+            "val": 1.2,
+            "cat": "orange bitters"
+        }, {
+            "color": "FFDE5B",
+            "val": 30.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "jewel"
+    },
+    "concorde": {
+        "total": 128.0,
+        "data": [{
+            "color": "CF548C",
+            "val": 8.0,
+            "cat": "champagne"
+        }, {
+            "color": "F48D02",
+            "val": 60.0,
+            "cat": "cognac"
+        }, {
+            "color": "82C73D",
+            "val": 60.0,
+            "cat": "pineapple juice"
+        }],
+        "unit": "ml",
+        "cocktail": "concorde"
+    },
+    "diamond head": {
+        "total": 125.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "curacao"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }, {
+            "color": "82C73D",
+            "val": 60.0,
+            "cat": "pineapple juice"
+        }, {
+            "color": "FFDE5B",
+            "val": 5.0,
+            "cat": "sweet vermouth"
+        }],
+        "unit": "ml",
+        "cocktail": "diamond head"
+    },
+    "after five": {
+        "total": 30.0,
+        "data": [{
+            "color": "FDD8C7",
+            "val": 10.0,
+            "cat": "irish cream"
+        }, {
+            "color": "A01F02",
+            "val": 10.0,
+            "cat": "kahlua"
+        }, {
+            "color": "A01F02",
+            "val": 10.0,
+            "cat": "peppermint schnapps"
+        }],
+        "unit": "ml",
+        "cocktail": "after five"
+    },
+    "scorpion": {
+        "total": 180.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 30.0,
+            "cat": "brandy"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "creme de noyaux"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "FF474C",
+            "val": 60.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 60.0,
+            "cat": "orange juice"
+        }],
+        "unit": "ml",
+        "cocktail": "scorpion"
+    },
+    "barbary coast": {
+        "total": 125.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "creme de cacao"
+        }, {
+            "color": "E8BD42",
+            "val": 25.0,
+            "cat": "gin"
+        }, {
+            "color": "EEF8FF",
+            "val": 25.0,
+            "cat": "light cream"
+        }, {
+            "color": "FF474C",
+            "val": 25.0,
+            "cat": "light rum"
+        }, {
+            "color": "D25313",
+            "val": 25.0,
+            "cat": "scotch whisky"
+        }],
+        "unit": "ml",
+        "cocktail": "barbary coast"
+    },
+    "kir royale": {
+        "total": 183.0,
+        "data": [{
+            "color": "CF548C",
+            "val": 160.0,
+            "cat": "champagne"
+        }, {
+            "color": "A01F02",
+            "val": 23.0,
+            "cat": "creme de cassis"
+        }],
+        "unit": "ml",
+        "cocktail": "kir royale"
+    },
+    "sex on the beach": {
+        "total": 236.0,
+        "data": [{
+            "color": "82C73D",
+            "val": 60.0,
+            "cat": "cranberry juice"
+        }, {
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "creme de cassis"
+        }, {
+            "color": "6B93EB",
+            "val": 30.0,
+            "cat": "maraschino cherry"
+        }, {
+            "color": "82C73D",
+            "val": 60.0,
+            "cat": "orange juice"
+        }, {
+            "color": "A01F02",
+            "val": 26.0,
+            "cat": "peach schnapps"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "sex on the beach"
+    },
+    "chablis cooler": {
+        "total": 148.6,
+        "data": [{
+            "color": "7CD1FF",
+            "val": 8.0,
+            "cat": "club soda"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "grenadine"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lemon juice"
+        }, {
+            "color": "CFE5A6",
+            "val": 0.6,
+            "cat": "vanilla extract"
+        }, {
+            "color": "FFF576",
+            "val": 30.0,
+            "cat": "vodka"
+        }, {
+            "color": "CF548C",
+            "val": 90.0,
+            "cat": "white wine"
+        }],
+        "unit": "ml",
+        "cocktail": "chablis cooler"
+    },
+    "flying grasshopper": {
+        "total": 60.0,
+        "data": [{
+            "color": "A01F02",
+            "val": 15.0,
+            "cat": "green creme de menthe"
+        }, {
+            "color": "FFF576",
+            "val": 45.0,
+            "cat": "vodka"
+        }],
+        "unit": "ml",
+        "cocktail": "flying grasshopper"
+    },
+    "lady be good": {
+        "total": 95.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 45.0,
+            "cat": "brandy"
+        }, {
+            "color": "FFDE5B",
+            "val": 25.0,
+            "cat": "sweet vermouth"
+        }, {
+            "color": "A01F02",
+            "val": 25.0,
+            "cat": "white creme de menthe"
+        }],
+        "unit": "ml",
+        "cocktail": "lady be good"
+    },
+    "frozen daiquiri": {
+        "total": 80.0,
+        "data": [{
+            "color": "FF474C",
+            "val": 60.0,
+            "cat": "light rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "lime juice"
+        }, {
+            "color": "0063B2",
+            "val": 5.0,
+            "cat": "sugar syrup"
+        }],
+        "unit": "ml",
+        "cocktail": "frozen daiquiri"
+    },
+    "martini": {
+        "total": 45.6,
+        "data": [{
+            "color": "FFDE5B",
+            "val": 0.6,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }],
+        "unit": "ml",
+        "cocktail": "martini"
+    },
+    "blue moon": {
+        "total": 65.6,
+        "data": [{
+            "color": "A14D90",
+            "val": 0.6,
+            "cat": "angostura bitters"
+        }, {
+            "color": "A01F02",
+            "val": 5.0,
+            "cat": "curacao"
+        }, {
+            "color": "FFDE5B",
+            "val": 15.0,
+            "cat": "dry vermouth"
+        }, {
+            "color": "E8BD42",
+            "val": 45.0,
+            "cat": "gin"
+        }],
+        "unit": "ml",
+        "cocktail": "blue moon"
+    },
+    "black witch": {
+        "total": 80.0,
+        "data": [{
+            "color": "F48D02",
+            "val": 10.0,
+            "cat": "apricot brandy"
+        }, {
+            "color": "FF474C",
+            "val": 10.0,
+            "cat": "dark rum"
+        }, {
+            "color": "FF474C",
+            "val": 45.0,
+            "cat": "gold rum"
+        }, {
+            "color": "82C73D",
+            "val": 15.0,
+            "cat": "pineapple juice"
+        }],
+        "unit": "ml",
+        "cocktail": "black witch"
+    }
+}
