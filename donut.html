@@ -29,16 +29,14 @@
     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
     <script>
-    
-    $(function() {
 
+    $(function() {
         var donutData = genData(dataset);
         var donuts = new DonutCharts();
         donuts.create(donutData);
 
         $('#searchbutton').on('click', function refresh() {
-            filterInput();
-            console.log("datasetfiltered",dataset);
+            donuts.update(filterInput());
         });
     });
 
@@ -267,15 +265,29 @@
         }
 
         this.update = function(dataset) {
+            var itemName = document.getElementById("search").value;
             // Assume no new categ of data enter
             var donut = charts.selectAll(".donut")
-                        .data(dataset);
-
+                        .filter(function(d) {
+                            return false;
+                            var ingreds = d["data"];
+                            console.log(ingreds);
+                            debugger;
+                            var item;
+                            for (item in ingreds) {
+                                if (item["cat"] === itemName) {
+                                    return true;
+                                }
+                            }
+                            return false;
+                        })
+                        // .data(dataset);
+            // debugger;
+            // console.log((charts.selectAll(".donut"))[0].length);
             updateDonut();
         }
     }
     function filterInput(){
-        d3.select("svg > *").remove();
         var itemName = document.getElementById("search").value;
         for(var item in dataset){
             var index = dataset.indexOf(item);
@@ -287,7 +299,7 @@
                 }
             }
         }
-        console.log(dataset);
+        return dataset;
     }
     var dataset;
     dataset = [
@@ -487,85 +499,85 @@
             "unit": "ml",
             "cocktail": "joe collins"
         }]
-    var dataset2;
-    dataset2 = [
-        {
-            "total": 75.0,
-            "data": [{
-                "color": "A01F02",
-                "val": 15.0,
-                "cat": "green chartreuse"
-            }, {
-                "color": "D25313",
-                "val": 30.0,
-                "cat": "irish whiskey"
-            }, {
-                "color": "FFDE5B",
-                "val": 30.0,
-                "cat": "sweet vermouth"
-            }],
-            "unit": "ml",
-            "cocktail": "tipperary"
-        }, {
-            "total": 255.0,
-            "data": [{
-                "color": "82C73D",
-                "val": 30.0,
-                "cat": "cranberry juice"
-            }, {
-                "color": "82C73D",
-                "val": 120.0,
-                "cat": "lemonade"
-            }, {
-                "color": "4E922E",
-                "val": 60.0,
-                "cat": "sour mix"
-            }, {
-                "color": "FFF576",
-                "val": 45.0,
-                "cat": "vodka"
-            }],
-            "unit": "ml",
-            "cocktail": "pink lemonade"
-        }, {
-            "total": 78.6,
-            "data": [{
-                "color": "A14D90",
-                "val": 1.8,
-                "cat": "angostura bitters"
-            }, {
-                "color": "D25313",
-                "val": 45.0,
-                "cat": "scotch whisky"
-            }, {
-                "color": "0063B2",
-                "val": 1.8,
-                "cat": "sugar syrup"
-            }, {
-                "color": "FFDE5B",
-                "val": 30.0,
-                "cat": "sweet vermouth"
-            }],
-            "unit": "ml",
-            "cocktail": "flying scot"
-        }, {
-            "total": 165.0,
-            "data": [{
-                "color": "7CD1FF",
-                "val": 30.0,
-                "cat": "club soda"
-            }, {
-                "color": "D25313",
-                "val": 45.0,
-                "cat": "scotch whisky"
-            }, {
-                "color": "4E922E",
-                "val": 90.0,
-                "cat": "sour mix"
-            }],
-            "unit": "ml",
-            "cocktail": "joe collins"
-    }]
+    // var dataset2;
+    // dataset2 = [
+    // //     {
+    // //         "total": 75.0,
+    // //         "data": [{
+    // //             "color": "A01F02",
+    // //             "val": 15.0,
+    // //             "cat": "green chartreuse"
+    // //         }, {
+    // //             "color": "D25313",
+    // //             "val": 30.0,
+    // //             "cat": "irish whiskey"
+    // //         }, {
+    // //             "color": "FFDE5B",
+    // //             "val": 30.0,
+    // //             "cat": "sweet vermouth"
+    // //         }],
+    // //         "unit": "ml",
+    // //         "cocktail": "tipperary"
+    // //     }, {
+    // //         "total": 255.0,
+    // //         "data": [{
+    // //             "color": "82C73D",
+    // //             "val": 30.0,
+    // //             "cat": "cranberry juice"
+    // //         }, {
+    // //             "color": "82C73D",
+    // //             "val": 120.0,
+    // //             "cat": "lemonade"
+    // //         }, {
+    // //             "color": "4E922E",
+    // //             "val": 60.0,
+    // //             "cat": "sour mix"
+    // //         }, {
+    // //             "color": "FFF576",
+    // //             "val": 45.0,
+    // //             "cat": "vodka"
+    // //         }],
+    // //         "unit": "ml",
+    // //         "cocktail": "pink lemonade"
+    // //     }, {
+    // //         "total": 78.6,
+    // //         "data": [{
+    // //             "color": "A14D90",
+    // //             "val": 1.8,
+    // //             "cat": "angostura bitters"
+    // //         }, {
+    // //             "color": "D25313",
+    // //             "val": 45.0,
+    // //             "cat": "scotch whisky"
+    // //         }, {
+    // //             "color": "0063B2",
+    // //             "val": 1.8,
+    // //             "cat": "sugar syrup"
+    // //         }, {
+    // //             "color": "FFDE5B",
+    // //             "val": 30.0,
+    // //             "cat": "sweet vermouth"
+    // //         }],
+    // //         "unit": "ml",
+    // //         "cocktail": "flying scot"
+    // //     }, {
+    // //         "total": 165.0,
+    // //         "data": [{
+    // //             "color": "7CD1FF",
+    // //             "val": 30.0,
+    // //             "cat": "club soda"
+    // //         }, {
+    // //             "color": "D25313",
+    // //             "val": 45.0,
+    // //             "cat": "scotch whisky"
+    // //         }, {
+    // //             "color": "4E922E",
+    // //             "val": 90.0,
+    // //             "cat": "sour mix"
+    // //         }],
+    // //         "unit": "ml",
+    // //         "cocktail": "joe collins"
+    // // }]
     function genData(dataset) {
         return dataset;
     }
