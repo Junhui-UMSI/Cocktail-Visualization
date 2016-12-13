@@ -471,24 +471,28 @@
             var paths = charts.selectAll('.donut')
                             .selectAll('path')
                             .data(function(d, i) {
+                                console.log(d.data);
                                 return pie(d.data);
                             });
+            paths.exit().remove();
 
             paths
                 .transition()
-                .duration(1000)
-                .attr('d', arc);
+                // .duration(1000)
+                .attr('d', arc)
+                .style('fill', function(d, i) {
+                    return d.data.color;
+                })
+                .style('stroke', '#FFFFFF');
 
             paths.enter()
                 .append('svg:path')
                     .attr('d', arc)
                     .style('fill', function(d, i) {
-                        return d['data']['color'];
+                        return d.data.color;
                     })
                     .style('stroke', '#FFFFFF')
                     .on(eventObj)
-
-            paths.exit().remove();
 
             resetAllCenterText();
         }
@@ -522,6 +526,7 @@
             var itemName = document.getElementById("search").value;
             // Assume no new categ of data enter
             var donut = charts.selectAll(".donut").data(dataset);
+            console.log("dataset",dataset);
 
             donut.exit().remove();
 
