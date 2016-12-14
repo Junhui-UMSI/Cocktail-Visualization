@@ -13,7 +13,7 @@
         border-radius: 0;
     }
     #donut-charts {
-        width: 2000px;
+        width: 610px;
         height: 500px;
         margin-top: 50px;
     }
@@ -6154,15 +6154,15 @@
         this.create = function(dataset) {
             var $charts = $('#donut-charts');
             console.log("innerwidth",$charts.innerWidth());
-            chart_m = 40;
-            chart_r = 100;
+            chart_m = 30;
+            chart_r = 70;
 
 
             var donut = charts.selectAll('.donut')
                             .data(dataset)
                         .enter().append('svg:svg')
-                            .attr('width', '500')
-                            .attr('height', '300')
+                            .attr('width', '170')
+                            .attr('height', '200')
                             .style('overflow','inherit')
                             .style('margin-bottom','60px')
                         .append('svg:g')
