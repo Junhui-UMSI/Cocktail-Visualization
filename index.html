@@ -1,110 +1,110 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
+
     <meta charset="utf-8">
-    <link rel='stylesheet' type='text/css' href='style.css'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Cocktail Universe</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/simple-sidebar.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<style>
+body{
+  background-image: url("img/bg_cocktail.png");
+background-size: cover;
+}
+</style>
 </head>
 
 <body>
-    <svg width="1500" height="1000"></svg>
-</body>
-<script src="https://d3js.org/d3.v4.min.js"></script>
-<script>
-    var svg = d3.select("svg"),
-        width = +svg.attr("width"),
-        height = +svg.attr("height");
+      <div id="wrapper">
 
-    var color = d3.scaleOrdinal(d3.schemeCategory20);
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="index.html">
+                        Cocktail Universe
+                    </a>
+                </li>
+                <li class="sidebar-option">
+                    <a href="universe.html">A dry martini. Shaken, not stirred.</a>
+                </li>
+                <li class="sidebar-option">
+                    <a href="stories.html"> ...Do you have any gin?</a>
+                </li>
+                <li class="sidebar-option">
+                    <a href="recipes.html">Recipes for disaster</a>
+                </li>
+                <li class="sidebar-option">
+                    <a href="winningcomb.html">Winning combinations</a>
+                </li>
+                <li class="sidebar-option">
+                    <a href="builder.html">Build a cocktail!</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
 
-    var simulation = d3.forceSimulation()
-        .force("link", d3.forceLink().id(function(d) {
-            return d.id;
-        }))
-        .force("charge", d3.forceManyBody())
-        .force("center", d3.forceCenter(width / 2, height / 2));
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <section class="landing" id="landing">
+                        <div class="col-md-4">
+                        <button class="sidebar-menu" ><a href="#menu-toggle" style="color:white;" class="btn btn-default" id="menu-toggle"> MENU </a></button>
+                        </div>
+                        <div class="col-md-4">
+                        <h1 style="color:white;">A dry martini. Shaken, not stirred.</h1>
+                        <p style="color:white;">Many things go into making the perfect cocktail. For newcomers to this universe of possibilities, the number of potentially combinations can be overwhelming. What ingredients should you add, and in what proportions? Should the drink be shaken or stirred? Will a specific combination of ingredients taste good together? What can you stock your liquor cabinet with that will give you the widest range of options? The following screens explore this universe of cocktails— by the end, you’ll be ready to make your own signature drink.</p>
+                        <button class="pag"><a href="universe.html" style="color:white;" class="btn btn-default">NEXT > </a></button>
+                        </div>
+                        <div class="col-md-4"></div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
 
-    d3.json("data.json", function(error, graph) {
-        if (error) throw error;
+    </div>
+    <!-- /#wrapper -->
 
-        var link = svg.append("g")
-            .attr("class", "links")
-            .selectAll("line")
-            .data(graph.links)
-            .enter().append("line")
-            .attr("stroke-width", function(d) {
-                return Math.sqrt(d.value);
-            });
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
 
-        var node = svg.append("g")
-            .attr("class", "nodes")
-            .selectAll("circle")
-            .data(graph.nodes)
-            .enter().append("circle")
-            .attr("r", function(d) {
-                return 5;
-            })
-            .attr("fill", function(d) {
-                return color(d.group);
-            })
-            .call(d3.drag()
-                .on("start", dragstarted)
-                .on("drag", dragged)
-                .on("end", dragended));
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
 
-        node.append("title")
-            .text(function(d) {
-                return d.id;
-            });
-
-        simulation
-            .nodes(graph.nodes)
-            .on("tick", ticked);
-
-        simulation.force("link")
-            .links(graph.links);
-
-        function ticked() {
-            link
-                .attr("x1", function(d) {
-                    return d.source.x;
-                })
-                .attr("y1", function(d) {
-                    return d.source.y;
-                })
-                .attr("x2", function(d) {
-                    return d.target.x;
-                })
-                .attr("y2", function(d) {
-                    return d.target.y;
-                });
-
-            node
-                .attr("cx", function(d) {
-                    return d.x;
-                })
-                .attr("cy", function(d) {
-                    return d.y;
-                });
-        }
+    <!-- Menu Toggle Script -->
+    <script>
+    $(document).ready(function(){
+        $("#wrapper").toggleClass("toggled");
     });
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
 
-    function dragstarted(d) {
-        if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-        d.fx = d.x;
-        d.fy = d.y;
-    }
-
-    function dragged(d) {
-        d.fx = d3.event.x;
-        d.fy = d3.event.y;
-    }
-
-    function dragended(d) {
-        if (!d3.event.active) simulation.alphaTarget(0);
-        d.fx = d3.event.x;
-        d.fy = d3.event.y;
-    }
-</script>
+</body>
 
 </html>
